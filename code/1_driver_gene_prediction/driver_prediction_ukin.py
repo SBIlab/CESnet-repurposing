@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-from khpylib import performance
+import performance
 from multiprocessing import Process, Queue
 import pickle
 
