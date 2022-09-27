@@ -10,4 +10,4 @@
 - GSE70138_Broad_LINCS_cell_info_2017-04-28.txt
 - GSE70138_Broad_LINCS_gene_info_2017-03-06.txt
 - GSE70138_Broad_LINCS_Level5_COMPZ_n118050x12328_2017-03-06.gctx
-- Download the files under the './CMap/' folder.
+- Download the files under the './cmap/' folder.
