@@ -1,0 +1,2516 @@
+drug	repurpose	origin	min_check
+IRINOTECAN	BLCA	Oncology	0
+ETHANOL	BLCA	Neurology	0
+MIDOSTAURIN	BLCA	Oncology	0
+CARBOPLATIN	BLCA	Oncology	0
+RETINOIC ACID	BLCA	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	BLCA	Oncology	0
+CYTARABINE	BLCA	Oncology	0
+STREPTOZOCIN	BLCA	Oncology	0
+IDELALISIB	BLCA	Oncology	0
+COPANLISIB	BLCA	Oncology	0
+RAPAMYCIN	BLCA	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	BLCA	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	BLCA	Oncology	0
+METFORMIN	BLCA	Endocrinology	0
+PAZOPANIB	BLCA	Oncology	0
+5-FLUOROURACIL	BLCA	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	BLCA	Oncology	0
+OXALIPLATIN	BLCA	Oncology	0
+VINORELBINE	BLCA	Oncology	0
+PACLITAXEL	BLCA	Oncology	0
+CYCLOPHOSPHAMIDE	BLCA	Oncology | Nephrology/Urology	0
+DOCETAXEL	BLCA	Oncology	0
+BEVACIZUMAB	BLCA	Oncology	0
+GEMCITABINE	BLCA	Oncology	0
+PEMETREXED	BLCA	Oncology	0
+L-ASCORBIC ACID	BLCA	Nutraceutical	0
+LITHIUM	BLCA	Psychiatry/Psychology	0
+CELECOXIB	BLCA	Pain management	0
+DASATINIB	BLCA	Oncology	0
+REGORAFENIB	BLCA	Oncology	0
+VANDETANIB	BLCA	Oncology	0
+DOXORUBICIN	BLCA	Oncology	0
+BROMOCRIPTINE	BLCA	Endocrinology | Neurology	0
+INDOMETHACIN	BLCA	Pain management | Musculoskeletal	0
+PALIFERMIN	BLCA	Dental/Maxillofacial surgery	0
+CYCLOSPORIN A	BLCA	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	BLCA	Oncology	0
+TRASTUZUMAB	BLCA	Oncology	0
+RITUXIMAB	BLCA	Oncology	0
+HALOPERIDOL	BLCA	Psychiatry/Psychology	0
+PROGESTERONE	BLCA	Endocrinology | Obstetrics/Gynecology	0
+NINTEDANIB	BLCA	Pulmonary/Respiratory disease	0
+PONATINIB	BLCA	Oncology	0
+ACALABRUTINIB	BLCA	Oncology	0
+IBRUTINIB	BLCA	Oncology	0
+PAZOPANIB HYDROCHLORIDE	BLCA	Oncology	0
+VORINOSTAT	BLCA	Oncology	0
+BELINOSTAT	BLCA	Oncology	0
+PANOBINOSTAT	BLCA	Oncology	0
+ROMIDEPSIN	BLCA	Oncology	0
+VALPROIC ACID	BLCA	Neurology | Psychiatry/Psychology	0
+SODIUM 4-PHENYLBUTYRATE	BLCA	Hematology	0
+IXAZOMIB CITRATE	BLCA	Oncology	1
+BORTEZOMIB	BLCA	Oncology	0
+FILGRASTIM	BLCA	Hematology | Oncology	0
+ROSIGLITAZONE	BLCA	Endocrinology	0
+ERLOTINIB HYDROCHLORIDE	BLCA	Oncology	0
+ACETAMINOPHEN	BLCA	Pain management	0
+ETODOLAC	BLCA	Pain management	0
+PROPYLTHIOURACIL	BLCA	Endocrinology	0
+VINBLASTINE	BLCA	Oncology	0
+ARSENIC TRIOXIDE	BLCA	Oncology	0
+DEXAMETHASONE	BLCA	Ophthalmology	0
+MITOMYCIN C	BLCA	Oncology	0
+CAPECITABINE	BLCA	Oncology	0
+CHLORAMBUCIL	BLCA	Oncology	0
+NITROGLYCERIN	BLCA	Cardiology/Vascular disease | Gastroenterology	0
+RIBOCICLIB	BLCA	Oncology	0
+TRAMETINIB	BLCA	Oncology	0
+COBIMETINIB	BLCA	Oncology	0
+PANITUMUMAB	BLCA	Oncology	0
+SORAFENIB	BLCA	Oncology	0
+VEMURAFENIB	BLCA	Oncology	0
+LENVATINIB	BLCA	Oncology	0
+PALBOCICLIB	BLCA	Oncology	0
+AZD-9291	BLCA	Oncology	0
+GEFITINIB	BLCA	Oncology	0
+DABRAFENIB	BLCA	Oncology	0
+AFATINIB	BLCA	Oncology	0
+ABEMACICLIB	BLCA	Oncology	0
+RALOXIFENE	BLCA	Musculoskeletal | Oncology	0
+TARENFLURBIL	BLCA	Pain management | Musculoskeletal	0
+ABT-199	BLCA	Oncology	0
+HYDROCORTISONE	BLCA	Dermatology/Plastic surgery	0
+SIMVASTATIN	BLCA	Hematology	0
+NICOTINE	BLCA	Psychiatry/Psychology	0
+METHIMAZOLE	BLCA	Endocrinology	0
+PREDNISOLONE	BLCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	BLCA	Oncology	0
+EXEMESTANE	BLCA	Oncology	0
+IMATINIB	BLCA	Oncology	0
+CRIZOTINIB	BLCA	Oncology	0
+DEHYDROEPIANDROSTERONE	BLCA	Obstetrics/Gynecology	0
+DIMETHYL SULFOXIDE	BLCA	Pain management | Nephrology/Urology	0
+NILOTINIB	BLCA	Oncology	0
+ERLOTINIB	BLCA	Oncology	0
+ADAPALENE	BLCA	Dermatology/Plastic surgery	0
+BEXAROTENE	BLCA	Oncology	0
+ACITRETIN	BLCA	Dermatology/Plastic surgery	0
+ALITRETINOIN	BLCA	Immunology/Infectious disease | Oncology	0
+URSODEOXYCHOLIC ACID	BLCA	Gastroenterology	0
+LENALIDOMIDE	BLCA	Oncology	0
+SULINDAC	BLCA	Pain management | Musculoskeletal	0
+DECITABINE	BLCA	Hematology	0
+OLAPARIB	BLCA	Oncology	0
+RUCAPARIB	BLCA	Oncology	0
+NIRAPARIB	BLCA	Oncology	0
+ENALAPRIL	BLCA	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	BLCA	Oncology	1
+CLADRIBINE	BLCA	Oncology	0
+CLOFARABINE	BLCA	Oncology	1
+FLUDARABINE	BLCA	Oncology	0
+HYDROXYUREA	BLCA	Hematology | Oncology	0
+GEMCITABINE HYDROCHLORIDE	BLCA	Oncology	1
+NETARSUDIL	BLCA	Ophthalmology	0
+ETOPOSIDE	BLCA	Oncology	0
+VITAMIN E	BLCA	Nutraceutical	0
+TRIFLUOPERAZINE	BLCA	Psychiatry/Psychology	0
+DAUNORUBICIN	BLCA	Oncology	0
+IDARUBICIN	BLCA	Oncology	0
+ALECTINIB	BLCA	Oncology	0
+TOPOTECAN	BLCA	Oncology	0
+ANASTROZOLE	BLCA	Oncology	0
+LETROZOLE	BLCA	Oncology	0
+TEMOZOLOMIDE	BLCA	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	BLCA	Oncology	0
+IXABEPILONE	BLCA	Oncology	0
+INSULIN HUMAN	BLCA	Endocrinology	0
+CAPSAICIN	BLCA	Immunology/Infectious disease | Neurology | Pain management	0
+FLUTAMIDE	BLCA	Oncology	0
+FULVESTRANT	BLCA	Oncology	0
+CABOZANTINIB	BLCA	Oncology	0
+BICALUTAMIDE	BLCA	Oncology	0
+MELPHALAN	BLCA	Oncology	0
+AFATINIB DIMALEATE	BLCA	Oncology	0
+AZD-9291 MESYLATE	BLCA	Oncology	0
+LAPATINIB	BLCA	Oncology	0
+PRAMLINTIDE	BLCA	Endocrinology	0
+SUNITINIB	BLCA	Oncology	0
+PIOGLITAZONE HYDROCHLORIDE	BLCA	Endocrinology	0
+ROSIGLITAZONE MALEATE	BLCA	Endocrinology	0
+EPIRUBICIN	BLCA	Oncology	0
+UREA	BLCA	Dermatology/Plastic surgery	0
+METHYLPREDNISOLONE	BLCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	BLCA	Oncology	0
+MILTEFOSINE	BLCA	Immunology/Infectious disease	0
+NERATINIB	BLCA	Oncology	0
+FLOXURIDINE	BLCA	Oncology	0
+PERTUZUMAB	BLCA	Oncology	0
+GANCICLOVIR	BLCA	Immunology/Infectious disease	0
+NINTEDANIB ESYLATE	BLCA	Pulmonary/Respiratory disease	0
+RAMUCIRUMAB	BLCA	Oncology	0
+ITRACONAZOLE	BLCA	Immunology/Infectious disease	0
+PEGAPTANIB	BLCA	Ophthalmology	1
+NECITUMUMAB	BLCA	Oncology	0
+LAPATINIB DITOSYLATE	BLCA	Oncology	0
+5-AMINOLEVULINIC ACID	BLCA	Dermatology/Plastic surgery	0
+ASPARAGINASE	BLCA	Oncology	0
+ENZALUTAMIDE	BLCA	Oncology	0
+ABIRATERONE	BLCA	Oncology	0
+TRABECTEDIN	BLCA	Oncology	0
+ZINC CHLORIDE	BLCA	Nutraceutical	0
+TRIFLURIDINE	BLCA	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	BLCA	Immunology/Infectious disease	0
+EDARAVONE	BLCA	Musculoskeletal	0
+DIMETHYL FUMARATE	BLCA	Neurology	1
+LOVASTATIN ACID	BLCA	Cardiology/Vascular disease	0
+IRINOTECAN	BRCA	Oncology	0
+MIDOSTAURIN	BRCA	Oncology	0
+CARBOPLATIN	BRCA	Oncology	0
+RETINOIC ACID	BRCA	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	BRCA	Oncology	0
+CYTARABINE	BRCA	Oncology	0
+STREPTOZOCIN	BRCA	Oncology	0
+IDELALISIB	BRCA	Oncology	0
+COPANLISIB	BRCA	Oncology	0
+RAPAMYCIN	BRCA	Immunology/Infectious disease | Nephrology/Urology	0
+TEMSIROLIMUS	BRCA	Oncology	0
+METFORMIN	BRCA	Endocrinology	0
+PAZOPANIB	BRCA	Oncology	0
+5-FLUOROURACIL	BRCA	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	BRCA	Oncology	0
+OXALIPLATIN	BRCA	Oncology	0
+VINORELBINE	BRCA	Oncology	0
+BEVACIZUMAB	BRCA	Oncology	0
+GEMCITABINE	BRCA	Oncology	0
+PEMETREXED	BRCA	Oncology	0
+CELECOXIB	BRCA	Pain management	0
+DASATINIB	BRCA	Oncology	0
+REGORAFENIB	BRCA	Oncology	0
+VANDETANIB	BRCA	Oncology	0
+DOXORUBICIN	BRCA	Oncology	0
+RISPERIDONE	BRCA	Psychiatry/Psychology	0
+CETUXIMAB	BRCA	Oncology	0
+RITUXIMAB	BRCA	Oncology	0
+HALOPERIDOL	BRCA	Psychiatry/Psychology	0
+PROGESTERONE	BRCA	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	BRCA	Oncology	0
+ACALABRUTINIB	BRCA	Oncology	0
+IBRUTINIB	BRCA	Oncology	0
+VORINOSTAT	BRCA	Oncology	0
+BELINOSTAT	BRCA	Oncology	0
+PANOBINOSTAT	BRCA	Oncology	0
+ROMIDEPSIN	BRCA	Oncology	0
+IXAZOMIB CITRATE	BRCA	Oncology	0
+BORTEZOMIB	BRCA	Oncology	0
+CARFILZOMIB	BRCA	Oncology	0
+FILGRASTIM	BRCA	Hematology | Oncology	0
+ERLOTINIB HYDROCHLORIDE	BRCA	Oncology	0
+ISOPROTERENOL	BRCA	Pulmonary/Respiratory disease	0
+PROPYLTHIOURACIL	BRCA	Endocrinology	0
+ARSENIC TRIOXIDE	BRCA	Oncology	0
+PEMBROLIZUMAB	BRCA	Oncology	0
+DEXAMETHASONE	BRCA	Ophthalmology	0
+MITOMYCIN C	BRCA	Oncology	0
+CHLORAMBUCIL	BRCA	Oncology	0
+TRAMETINIB	BRCA	Oncology	0
+COBIMETINIB	BRCA	Oncology	0
+PANITUMUMAB	BRCA	Oncology	0
+SORAFENIB	BRCA	Oncology	0
+VEMURAFENIB	BRCA	Oncology	0
+AZD-9291	BRCA	Oncology	0
+GEFITINIB	BRCA	Oncology	0
+DABRAFENIB	BRCA	Oncology	0
+AFATINIB	BRCA	Oncology	0
+RALOXIFENE	BRCA	Musculoskeletal | Oncology	0
+TARENFLURBIL	BRCA	Pain management | Musculoskeletal	0
+ABT-199	BRCA	Oncology	0
+HYDROCORTISONE	BRCA	Dermatology/Plastic surgery	0
+METHIMAZOLE	BRCA	Endocrinology	0
+PREDNISOLONE	BRCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IMATINIB	BRCA	Oncology	0
+CRIZOTINIB	BRCA	Oncology	0
+DEHYDROEPIANDROSTERONE	BRCA	Obstetrics/Gynecology	0
+NILOTINIB	BRCA	Oncology	0
+ERLOTINIB	BRCA	Oncology	0
+URSODEOXYCHOLIC ACID	BRCA	Gastroenterology	0
+LENALIDOMIDE	BRCA	Oncology	0
+SULINDAC	BRCA	Pain management | Musculoskeletal	0
+DECITABINE	BRCA	Hematology	0
+NIRAPARIB	BRCA	Oncology	0
+ENALAPRIL	BRCA	Cardiology/Vascular disease	0
+METHACHOLINE CHLORIDE	BRCA	Diagnostic agent	0
+FLUDARABINE PHOSPHATE	BRCA	Oncology	0
+CLADRIBINE	BRCA	Oncology	1
+CLOFARABINE	BRCA	Oncology	0
+FLUDARABINE	BRCA	Oncology	1
+NETARSUDIL	BRCA	Ophthalmology	0
+ETOPOSIDE	BRCA	Oncology	0
+VITAMIN E	BRCA	Nutraceutical	0
+TRIFLUOPERAZINE	BRCA	Psychiatry/Psychology	0
+DAUNORUBICIN	BRCA	Oncology	0
+IDARUBICIN	BRCA	Oncology	0
+BRIGATINIB	BRCA	Oncology	0
+TOPOTECAN	BRCA	Oncology	0
+DURVALUMAB	BRCA	Oncology	0
+NIVOLUMAB	BRCA	Oncology	0
+TEMOZOLOMIDE	BRCA	Oncology	0
+INSULIN HUMAN	BRCA	Endocrinology	0
+CAPSAICIN	BRCA	Immunology/Infectious disease | Neurology | Pain management	0
+CABOZANTINIB	BRCA	Oncology	0
+BICALUTAMIDE	BRCA	Oncology	0
+AFATINIB DIMALEATE	BRCA	Oncology	0
+AZD-9291 MESYLATE	BRCA	Oncology	0
+PRAMLINTIDE	BRCA	Endocrinology	0
+SUNITINIB	BRCA	Oncology	0
+METHYLPREDNISOLONE	BRCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	BRCA	Oncology	0
+MILTEFOSINE	BRCA	Immunology/Infectious disease	0
+FLOXURIDINE	BRCA	Oncology	0
+GANCICLOVIR	BRCA	Immunology/Infectious disease	0
+RAMUCIRUMAB	BRCA	Oncology	0
+ITRACONAZOLE	BRCA	Immunology/Infectious disease	0
+PEMETREXED DISODIUM	BRCA	Oncology	0
+NELFINAVIR	BRCA	Immunology/Infectious disease	0
+NECITUMUMAB	BRCA	Oncology	0
+VISMODEGIB	BRCA	Oncology	0
+DABRAFENIB MESYLATE	BRCA	Oncology	0
+5-AMINOLEVULINIC ACID	BRCA	Dermatology/Plastic surgery	1
+ASPARAGINASE	BRCA	Oncology	0
+ENZALUTAMIDE	BRCA	Oncology	0
+ABIRATERONE	BRCA	Oncology	0
+TRABECTEDIN	BRCA	Oncology	0
+TRIHEXYPHENIDYL	BRCA	Neurology	0
+CYCLOPENTOLATE	BRCA	Ophthalmology	0
+TROSPIUM	BRCA	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	BRCA	Neurology	0
+DENOSUMAB	BRCA	Musculoskeletal | Oncology	0
+INSULIN GLARGINE	BRCA	Endocrinology	1
+MECASERMIN	BRCA	Endocrinology	1
+ATOVAQUONE	BRCA	Immunology/Infectious disease	0
+ZINC CHLORIDE	BRCA	Nutraceutical	0
+TRIFLURIDINE	BRCA	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	BRCA	Immunology/Infectious disease	0
+EDARAVONE	BRCA	Musculoskeletal	0
+DIMETHYL FUMARATE	BRCA	Neurology	0
+LOVASTATIN ACID	BRCA	Cardiology/Vascular disease	0
+IRINOTECAN	CESC	Oncology	0
+ETHANOL	CESC	Neurology	0
+MIDOSTAURIN	CESC	Oncology	0
+CARBOPLATIN	CESC	Oncology	0
+RETINOIC ACID	CESC	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	CESC	Oncology	0
+CYTARABINE	CESC	Oncology	0
+STREPTOZOCIN	CESC	Oncology	0
+IDELALISIB	CESC	Oncology	0
+COPANLISIB	CESC	Oncology	0
+RAPAMYCIN	CESC	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	CESC	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	CESC	Oncology	0
+METFORMIN	CESC	Endocrinology	0
+PAZOPANIB	CESC	Oncology	0
+5-FLUOROURACIL	CESC	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	CESC	Oncology	0
+OXALIPLATIN	CESC	Oncology	0
+PHENYTOIN	CESC	Neurology	0
+VINORELBINE	CESC	Oncology	0
+PACLITAXEL	CESC	Oncology	0
+CYCLOPHOSPHAMIDE	CESC	Oncology | Nephrology/Urology	0
+DOCETAXEL	CESC	Oncology	0
+GEMCITABINE	CESC	Oncology	0
+PEMETREXED	CESC	Oncology	0
+L-ASCORBIC ACID	CESC	Nutraceutical	0
+LITHIUM	CESC	Psychiatry/Psychology	0
+CARBAMAZEPINE	CESC	Neurology | Psychiatry/Psychology	0
+DASATINIB	CESC	Oncology	0
+REGORAFENIB	CESC	Oncology	0
+VANDETANIB	CESC	Oncology	0
+DOXORUBICIN	CESC	Oncology	0
+BROMOCRIPTINE	CESC	Endocrinology | Neurology	0
+RISPERIDONE	CESC	Psychiatry/Psychology	0
+GLYCEROL	CESC	Gastroenterology	0
+INDOMETHACIN	CESC	Pain management | Musculoskeletal	0
+CYCLOSPORIN A	CESC	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	CESC	Oncology	0
+TRASTUZUMAB	CESC	Oncology	0
+RITUXIMAB	CESC	Oncology	0
+HALOPERIDOL	CESC	Psychiatry/Psychology	0
+PROGESTERONE	CESC	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	CESC	Oncology	0
+ACALABRUTINIB	CESC	Oncology	0
+IBRUTINIB	CESC	Oncology	0
+VORINOSTAT	CESC	Oncology	0
+BELINOSTAT	CESC	Oncology	0
+PANOBINOSTAT	CESC	Oncology	0
+ROMIDEPSIN	CESC	Oncology	0
+BORTEZOMIB	CESC	Oncology	0
+FILGRASTIM	CESC	Hematology | Oncology	0
+RUXOLITINIB	CESC	Oncology	0
+ROSIGLITAZONE	CESC	Endocrinology	0
+ERLOTINIB HYDROCHLORIDE	CESC	Oncology	0
+ISOPROTERENOL	CESC	Pulmonary/Respiratory disease	0
+THALIDOMIDE	CESC	Dermatology/Plastic surgery | Oncology	0
+PROPYLTHIOURACIL	CESC	Endocrinology	0
+ARSENIC TRIOXIDE	CESC	Oncology	0
+DEXAMETHASONE	CESC	Ophthalmology	0
+MITOMYCIN C	CESC	Oncology	0
+CAPECITABINE	CESC	Oncology	0
+CHLORAMBUCIL	CESC	Oncology	0
+METHOTREXATE	CESC	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+RIBOCICLIB	CESC	Oncology	0
+TRAMETINIB	CESC	Oncology	0
+COBIMETINIB	CESC	Oncology	0
+ATEZOLIZUMAB	CESC	Oncology	0
+PANITUMUMAB	CESC	Oncology	0
+SORAFENIB	CESC	Oncology	0
+VEMURAFENIB	CESC	Oncology	0
+PALBOCICLIB	CESC	Oncology	0
+AZD-9291	CESC	Oncology	0
+GEFITINIB	CESC	Oncology	0
+DABRAFENIB	CESC	Oncology	0
+AFATINIB	CESC	Oncology	0
+ABEMACICLIB	CESC	Oncology	0
+RALOXIFENE	CESC	Musculoskeletal | Oncology	0
+TARENFLURBIL	CESC	Pain management | Musculoskeletal	0
+ABT-199	CESC	Oncology	0
+HYDROCORTISONE	CESC	Dermatology/Plastic surgery	0
+SIMVASTATIN	CESC	Hematology	0
+METHIMAZOLE	CESC	Endocrinology	0
+PREDNISOLONE	CESC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	CESC	Oncology	0
+EXEMESTANE	CESC	Oncology	0
+IMATINIB	CESC	Oncology	0
+CRIZOTINIB	CESC	Oncology	0
+DEHYDROEPIANDROSTERONE	CESC	Obstetrics/Gynecology	0
+NILOTINIB	CESC	Oncology	0
+ERLOTINIB	CESC	Oncology	0
+URSODEOXYCHOLIC ACID	CESC	Gastroenterology	0
+LENALIDOMIDE	CESC	Oncology	0
+SULINDAC	CESC	Pain management | Musculoskeletal	0
+DECITABINE	CESC	Hematology	0
+OLAPARIB	CESC	Oncology	0
+RUCAPARIB	CESC	Oncology	0
+NIRAPARIB	CESC	Oncology	0
+ENALAPRIL	CESC	Cardiology/Vascular disease	0
+NETARSUDIL	CESC	Ophthalmology	0
+ETOPOSIDE	CESC	Oncology	0
+ERISMODEGIB	CESC	Oncology	0
+VITAMIN E	CESC	Nutraceutical	0
+TRIFLUOPERAZINE	CESC	Psychiatry/Psychology	0
+DAUNORUBICIN	CESC	Oncology	0
+IDARUBICIN	CESC	Oncology	0
+ALECTINIB	CESC	Oncology	0
+BRIGATINIB	CESC	Oncology	1
+DURVALUMAB	CESC	Oncology	0
+NIVOLUMAB	CESC	Oncology	0
+ANASTROZOLE	CESC	Oncology	0
+LETROZOLE	CESC	Oncology	0
+TEMOZOLOMIDE	CESC	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	CESC	Oncology	0
+IXABEPILONE	CESC	Oncology	0
+OXCARBAZEPINE	CESC	Neurology	0
+INSULIN HUMAN	CESC	Endocrinology	0
+CAPSAICIN	CESC	Immunology/Infectious disease | Neurology | Pain management	0
+FLUTAMIDE	CESC	Oncology	0
+FULVESTRANT	CESC	Oncology	0
+CABOZANTINIB	CESC	Oncology	0
+BICALUTAMIDE	CESC	Oncology	0
+AFATINIB DIMALEATE	CESC	Oncology	0
+AZD-9291 MESYLATE	CESC	Oncology	0
+LAPATINIB	CESC	Oncology	0
+PRAMLINTIDE	CESC	Endocrinology	0
+BUMETANIDE	CESC	Cardiology/Vascular disease	0
+SUNITINIB	CESC	Oncology	0
+PIOGLITAZONE HYDROCHLORIDE	CESC	Endocrinology	0
+ROSIGLITAZONE MALEATE	CESC	Endocrinology	0
+EPIRUBICIN	CESC	Oncology	0
+LEVODOPA	CESC	Neurology	0
+METHYLPREDNISOLONE	CESC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	CESC	Oncology	0
+MILTEFOSINE	CESC	Immunology/Infectious disease	0
+NERATINIB	CESC	Oncology	0
+FLOXURIDINE	CESC	Oncology	0
+PERTUZUMAB	CESC	Oncology	0
+GANCICLOVIR	CESC	Immunology/Infectious disease	0
+RAMUCIRUMAB	CESC	Oncology	0
+ITRACONAZOLE	CESC	Immunology/Infectious disease	0
+NELFINAVIR	CESC	Immunology/Infectious disease	0
+ABACAVIR	CESC	Immunology/Infectious disease	0
+PEGAPTANIB	CESC	Ophthalmology	1
+NECITUMUMAB	CESC	Oncology	0
+LAPATINIB DITOSYLATE	CESC	Oncology	0
+THIOTEPA	CESC	Immunology/Infectious disease | Oncology	0
+MIGLUSTAT	CESC	Storage disease	0
+ELIGLUSTAT TARTRATE	CESC	Storage disease	0
+5-AMINOLEVULINIC ACID	CESC	Dermatology/Plastic surgery	1
+ASPARAGINASE	CESC	Oncology	0
+ENZALUTAMIDE	CESC	Oncology	0
+ABIRATERONE	CESC	Oncology	0
+TRABECTEDIN	CESC	Oncology	0
+TRIHEXYPHENIDYL	CESC	Neurology	0
+CYCLOPENTOLATE	CESC	Ophthalmology	0
+TROSPIUM	CESC	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	CESC	Neurology	0
+MECASERMIN	CESC	Endocrinology	1
+ZINC CHLORIDE	CESC	Nutraceutical	0
+TRIFLURIDINE	CESC	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	CESC	Immunology/Infectious disease	0
+EDARAVONE	CESC	Musculoskeletal	0
+DIMETHYL FUMARATE	CESC	Neurology	0
+LOVASTATIN ACID	CESC	Cardiology/Vascular disease	0
+MIDOSTAURIN	COADREAD	Oncology	0
+CARBOPLATIN	COADREAD	Oncology	0
+RETINOIC ACID	COADREAD	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	COADREAD	Oncology	0
+CYTARABINE	COADREAD	Oncology	0
+STREPTOZOCIN	COADREAD	Oncology	0
+IDELALISIB	COADREAD	Oncology	0
+COPANLISIB	COADREAD	Oncology	0
+PIMECROLIMUS	COADREAD	Dermatology/Plastic surgery	1
+RAPAMYCIN	COADREAD	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	COADREAD	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	COADREAD	Oncology	0
+METFORMIN	COADREAD	Endocrinology	0
+PAZOPANIB	COADREAD	Oncology	0
+5-FLUOROURACIL	COADREAD	Oncology | Dermatology/Plastic surgery	0
+VINORELBINE	COADREAD	Oncology	0
+PACLITAXEL	COADREAD	Oncology	0
+CYCLOPHOSPHAMIDE	COADREAD	Oncology | Nephrology/Urology	0
+DOCETAXEL	COADREAD	Oncology	0
+CISPLATIN	COADREAD	Oncology	0
+GEMCITABINE	COADREAD	Oncology	0
+PEMETREXED	COADREAD	Oncology	0
+CELECOXIB	COADREAD	Pain management	0
+DASATINIB	COADREAD	Oncology	0
+VANDETANIB	COADREAD	Oncology	0
+DOXORUBICIN	COADREAD	Oncology	0
+EFLORNITHINE	COADREAD	Dermatology/Plastic surgery	0
+TRASTUZUMAB	COADREAD	Oncology	0
+RITUXIMAB	COADREAD	Oncology	0
+HALOPERIDOL	COADREAD	Psychiatry/Psychology	0
+PROGESTERONE	COADREAD	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	COADREAD	Oncology	0
+IBRUTINIB	COADREAD	Oncology	0
+VORINOSTAT	COADREAD	Oncology	0
+BELINOSTAT	COADREAD	Oncology	0
+PANOBINOSTAT	COADREAD	Oncology	0
+ROMIDEPSIN	COADREAD	Oncology	0
+BORTEZOMIB	COADREAD	Oncology	0
+RUXOLITINIB	COADREAD	Oncology	0
+ERLOTINIB HYDROCHLORIDE	COADREAD	Oncology	0
+IBUPROFEN	COADREAD	Pain management	0
+PROPYLTHIOURACIL	COADREAD	Endocrinology	0
+AXITINIB	COADREAD	Oncology	0
+RIBOCICLIB	COADREAD	Oncology	0
+TRAMETINIB	COADREAD	Oncology	0
+COBIMETINIB	COADREAD	Oncology	0
+ATEZOLIZUMAB	COADREAD	Oncology	0
+SORAFENIB	COADREAD	Oncology	0
+VEMURAFENIB	COADREAD	Oncology	0
+LENVATINIB	COADREAD	Oncology	0
+PALBOCICLIB	COADREAD	Oncology	0
+AZD-9291	COADREAD	Oncology	0
+GEFITINIB	COADREAD	Oncology	0
+DABRAFENIB	COADREAD	Oncology	0
+AFATINIB	COADREAD	Oncology	0
+ABEMACICLIB	COADREAD	Oncology	0
+RALOXIFENE	COADREAD	Musculoskeletal | Oncology	0
+TARENFLURBIL	COADREAD	Pain management | Musculoskeletal	0
+ABT-199	COADREAD	Oncology	0
+HYDROCORTISONE	COADREAD	Dermatology/Plastic surgery	0
+METHIMAZOLE	COADREAD	Endocrinology	0
+TAMOXIFEN	COADREAD	Oncology	0
+IMATINIB	COADREAD	Oncology	0
+CRIZOTINIB	COADREAD	Oncology	0
+DEHYDROEPIANDROSTERONE	COADREAD	Obstetrics/Gynecology	0
+NILOTINIB	COADREAD	Oncology	0
+ERLOTINIB	COADREAD	Oncology	0
+URSODEOXYCHOLIC ACID	COADREAD	Gastroenterology	0
+LENALIDOMIDE	COADREAD	Oncology	0
+SULINDAC	COADREAD	Pain management | Musculoskeletal	0
+DECITABINE	COADREAD	Hematology	0
+OLAPARIB	COADREAD	Oncology	0
+RUCAPARIB	COADREAD	Oncology	0
+NIRAPARIB	COADREAD	Oncology	0
+ENALAPRIL	COADREAD	Cardiology/Vascular disease	0
+NETARSUDIL	COADREAD	Ophthalmology	0
+ETOPOSIDE	COADREAD	Oncology	0
+TRIFLUOPERAZINE	COADREAD	Psychiatry/Psychology	0
+DAUNORUBICIN	COADREAD	Oncology	0
+IDARUBICIN	COADREAD	Oncology	0
+ALECTINIB	COADREAD	Oncology	0
+BRIGATINIB	COADREAD	Oncology	1
+TOPOTECAN	COADREAD	Oncology	0
+DURVALUMAB	COADREAD	Oncology	0
+LETROZOLE	COADREAD	Oncology	0
+TEMOZOLOMIDE	COADREAD	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	COADREAD	Oncology	0
+IXABEPILONE	COADREAD	Oncology	0
+CAPSAICIN	COADREAD	Immunology/Infectious disease | Neurology | Pain management	0
+FULVESTRANT	COADREAD	Oncology	0
+CABOZANTINIB	COADREAD	Oncology	0
+AFATINIB DIMALEATE	COADREAD	Oncology	0
+AZD-9291 MESYLATE	COADREAD	Oncology	0
+LAPATINIB	COADREAD	Oncology	0
+AMIFOSTINE	COADREAD	Oncology | Nephrology/Urology | Otolaryngology	0
+PRAMLINTIDE	COADREAD	Endocrinology	0
+SUNITINIB	COADREAD	Oncology	0
+PIOGLITAZONE HYDROCHLORIDE	COADREAD	Endocrinology	1
+ROSIGLITAZONE MALEATE	COADREAD	Endocrinology	1
+REPAGLINIDE	COADREAD	Endocrinology	0
+SORAFENIB TOSYLATE	COADREAD	Oncology	0
+LIOTHYRONINE	COADREAD	Endocrinology	0
+EPIRUBICIN	COADREAD	Oncology	0
+UREA	COADREAD	Dermatology/Plastic surgery	0
+METHYLPREDNISOLONE	COADREAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+RIFABUTIN	COADREAD	Immunology/Infectious disease	0
+IFOSFAMIDE	COADREAD	Oncology	0
+MILTEFOSINE	COADREAD	Immunology/Infectious disease	0
+NERATINIB	COADREAD	Oncology	0
+FLOXURIDINE	COADREAD	Oncology	0
+PERTUZUMAB	COADREAD	Oncology	0
+ITRACONAZOLE	COADREAD	Immunology/Infectious disease	0
+NECITUMUMAB	COADREAD	Oncology	0
+LAPATINIB DITOSYLATE	COADREAD	Oncology	0
+VISMODEGIB	COADREAD	Oncology	0
+DABRAFENIB MESYLATE	COADREAD	Oncology	0
+THIOTEPA	COADREAD	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	COADREAD	Dermatology/Plastic surgery	0
+ENZALUTAMIDE	COADREAD	Oncology	0
+ABIRATERONE	COADREAD	Oncology	0
+TRABECTEDIN	COADREAD	Oncology	0
+TRIHEXYPHENIDYL	COADREAD	Neurology	0
+CYCLOPENTOLATE	COADREAD	Ophthalmology	0
+TROSPIUM	COADREAD	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	COADREAD	Neurology	0
+COBIMETINIB FUMARATE	COADREAD	Oncology	0
+1187431-43-1	COADREAD	Oncology	0
+INSULIN GLARGINE	COADREAD	Endocrinology	1
+MECASERMIN	COADREAD	Endocrinology	1
+ZINC CHLORIDE	COADREAD	Nutraceutical	0
+TRIFLURIDINE	COADREAD	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	COADREAD	Immunology/Infectious disease	0
+EDARAVONE	COADREAD	Musculoskeletal	0
+DIMETHYL FUMARATE	COADREAD	Neurology	0
+LOVASTATIN ACID	COADREAD	Cardiology/Vascular disease	0
+IRINOTECAN	ESCA	Oncology	0
+ETHANOL	ESCA	Neurology	0
+MIDOSTAURIN	ESCA	Oncology	0
+CARBOPLATIN	ESCA	Oncology	0
+RETINOIC ACID	ESCA	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	ESCA	Oncology	0
+CYTARABINE	ESCA	Oncology	0
+STREPTOZOCIN	ESCA	Oncology	0
+IDELALISIB	ESCA	Oncology	0
+COPANLISIB	ESCA	Oncology	0
+RAPAMYCIN	ESCA	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	ESCA	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	ESCA	Oncology	0
+METFORMIN	ESCA	Endocrinology	0
+PAZOPANIB	ESCA	Oncology	0
+5-FLUOROURACIL	ESCA	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	ESCA	Oncology	0
+OXALIPLATIN	ESCA	Oncology	0
+VINORELBINE	ESCA	Oncology	0
+PACLITAXEL	ESCA	Oncology	0
+CYCLOPHOSPHAMIDE	ESCA	Oncology | Nephrology/Urology	0
+DOCETAXEL	ESCA	Oncology	0
+BEVACIZUMAB	ESCA	Oncology	0
+GEMCITABINE	ESCA	Oncology	0
+PEMETREXED	ESCA	Oncology	0
+L-ASCORBIC ACID	ESCA	Nutraceutical	0
+LITHIUM	ESCA	Psychiatry/Psychology	0
+DASATINIB	ESCA	Oncology	0
+REGORAFENIB	ESCA	Oncology	0
+VANDETANIB	ESCA	Oncology	0
+DOXORUBICIN	ESCA	Oncology	0
+BROMOCRIPTINE	ESCA	Endocrinology | Neurology	0
+INDOMETHACIN	ESCA	Pain management | Musculoskeletal	0
+CETUXIMAB	ESCA	Oncology	0
+RITUXIMAB	ESCA	Oncology	0
+HALOPERIDOL	ESCA	Psychiatry/Psychology	0
+PONATINIB	ESCA	Oncology	0
+ACALABRUTINIB	ESCA	Oncology	0
+IBRUTINIB	ESCA	Oncology	0
+VORINOSTAT	ESCA	Oncology	0
+BELINOSTAT	ESCA	Oncology	0
+ROMIDEPSIN	ESCA	Oncology	0
+BORTEZOMIB	ESCA	Oncology	0
+FILGRASTIM	ESCA	Hematology | Oncology	0
+ROSIGLITAZONE	ESCA	Endocrinology	0
+ERLOTINIB HYDROCHLORIDE	ESCA	Oncology	0
+PROPYLTHIOURACIL	ESCA	Endocrinology	0
+PEMBROLIZUMAB	ESCA	Oncology	0
+DEXAMETHASONE	ESCA	Ophthalmology	0
+MITOMYCIN C	ESCA	Oncology	0
+CAPECITABINE	ESCA	Oncology	0
+CHLORAMBUCIL	ESCA	Oncology	0
+METHOTREXATE	ESCA	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+RIBOCICLIB	ESCA	Oncology	0
+TRAMETINIB	ESCA	Oncology	0
+COBIMETINIB	ESCA	Oncology	0
+PANITUMUMAB	ESCA	Oncology	0
+SORAFENIB	ESCA	Oncology	0
+VEMURAFENIB	ESCA	Oncology	0
+PALBOCICLIB	ESCA	Oncology	0
+AZD-9291	ESCA	Oncology	0
+GEFITINIB	ESCA	Oncology	0
+DABRAFENIB	ESCA	Oncology	0
+AFATINIB	ESCA	Oncology	0
+ABEMACICLIB	ESCA	Oncology	0
+RALOXIFENE	ESCA	Musculoskeletal | Oncology	0
+TARENFLURBIL	ESCA	Pain management | Musculoskeletal	0
+ABT-199	ESCA	Oncology	0
+HYDROCORTISONE	ESCA	Dermatology/Plastic surgery	0
+SIMVASTATIN	ESCA	Hematology	0
+METHIMAZOLE	ESCA	Endocrinology	0
+PREDNISOLONE	ESCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	ESCA	Oncology	0
+EXEMESTANE	ESCA	Oncology	0
+IMATINIB	ESCA	Oncology	0
+CRIZOTINIB	ESCA	Oncology	0
+DEHYDROEPIANDROSTERONE	ESCA	Obstetrics/Gynecology	0
+ERLOTINIB	ESCA	Oncology	0
+URSODEOXYCHOLIC ACID	ESCA	Gastroenterology	0
+SULINDAC	ESCA	Pain management | Musculoskeletal	0
+DECITABINE	ESCA	Hematology	0
+OLAPARIB	ESCA	Oncology	0
+ENALAPRIL	ESCA	Cardiology/Vascular disease	0
+PILOCARPINE HYDROCHLORIDE	ESCA	Otolaryngology | Oncology | Ophthalmology	0
+CEVIMELINE HYDROCHLORIDE	ESCA	Immunology/Infectious disease	0
+DICYCLOMINE HYDROCHLORIDE	ESCA	Gastroenterology	0
+SCOPOLAMINE METHYL BROMIDE	ESCA	Gastroenterology	0
+CLIDINIUM BROMIDE	ESCA	Gastroenterology	0
+FLUDARABINE PHOSPHATE	ESCA	Oncology	0
+GEMCITABINE HYDROCHLORIDE	ESCA	Oncology	0
+NETARSUDIL	ESCA	Ophthalmology	0
+ETOPOSIDE	ESCA	Oncology	0
+ERISMODEGIB	ESCA	Oncology	0
+VITAMIN E	ESCA	Nutraceutical	0
+TRIFLUOPERAZINE	ESCA	Psychiatry/Psychology	0
+DAUNORUBICIN	ESCA	Oncology	0
+ALECTINIB	ESCA	Oncology	0
+BRIGATINIB	ESCA	Oncology	1
+TOPOTECAN	ESCA	Oncology	0
+DURVALUMAB	ESCA	Oncology	0
+ANASTROZOLE	ESCA	Oncology	0
+LETROZOLE	ESCA	Oncology	0
+TEMOZOLOMIDE	ESCA	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	ESCA	Oncology	0
+CAPSAICIN	ESCA	Immunology/Infectious disease | Neurology | Pain management	0
+FLUTAMIDE	ESCA	Oncology	0
+FULVESTRANT	ESCA	Oncology	0
+CABOZANTINIB	ESCA	Oncology	0
+BICALUTAMIDE	ESCA	Oncology	0
+AFATINIB DIMALEATE	ESCA	Oncology	0
+AZD-9291 MESYLATE	ESCA	Oncology	0
+LAPATINIB	ESCA	Oncology	0
+PRAMLINTIDE	ESCA	Endocrinology	0
+SUNITINIB	ESCA	Oncology	0
+DOXYLAMINE	ESCA	Neurology | Immunology/Infectious disease | Obstetrics/Gynecology	0
+CARBINOXAMINE	ESCA	Immunology/Infectious disease	0
+EPIRUBICIN	ESCA	Oncology	0
+METHYLPREDNISOLONE	ESCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	ESCA	Oncology	0
+MILTEFOSINE	ESCA	Immunology/Infectious disease	0
+NERATINIB	ESCA	Oncology	0
+FLOXURIDINE	ESCA	Oncology	0
+PERTUZUMAB	ESCA	Oncology	0
+GANCICLOVIR	ESCA	Immunology/Infectious disease	0
+ITRACONAZOLE	ESCA	Immunology/Infectious disease	0
+NECITUMUMAB	ESCA	Oncology	0
+LAPATINIB DITOSYLATE	ESCA	Oncology	0
+RIBOCICLIB SUCCINATE	ESCA	Oncology	0
+VISMODEGIB	ESCA	Oncology	0
+THIOTEPA	ESCA	Immunology/Infectious disease | Oncology	0
+MIGLUSTAT	ESCA	Storage disease	0
+ELIGLUSTAT TARTRATE	ESCA	Storage disease	0
+ASPARAGINASE	ESCA	Oncology	0
+TRABECTEDIN	ESCA	Oncology	0
+BENZTROPINE MESYLATE	ESCA	Neurology	0
+TRIHEXYPHENIDYL	ESCA	Neurology	0
+CYCLOPENTOLATE	ESCA	Ophthalmology	0
+TROSPIUM	ESCA	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	ESCA	Neurology	0
+WARFARIN SODIUM	ESCA	Hematology	0
+ZINC CHLORIDE	ESCA	Nutraceutical	0
+TRIFLURIDINE	ESCA	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	ESCA	Immunology/Infectious disease	0
+EDARAVONE	ESCA	Musculoskeletal	1
+DIMETHYL FUMARATE	ESCA	Neurology	0
+LOVASTATIN ACID	ESCA	Cardiology/Vascular disease	0
+IRINOTECAN	GBM	Oncology	0
+ETHANOL	GBM	Neurology	0
+ESTAZOLAM	GBM	Neurology	0
+TEMAZEPAM	GBM	Neurology	0
+DIAZEPAM	GBM	Neurology | Psychiatry/Psychology	0
+OXAZEPAM	GBM	Psychiatry/Psychology	0
+TRIAZOLAM	GBM	Neurology	0
+CLORAZEPATE DIPOTASSIUM	GBM	Neurology | Psychiatry/Psychology	0
+CHLORDIAZEPOXIDE	GBM	Psychiatry/Psychology	0
+CLOPOXIDE CHLORIDE	GBM	Psychiatry/Psychology	0
+MEPROBAMATE	GBM	Psychiatry/Psychology	0
+ALPRAZOLAM	GBM	Psychiatry/Psychology	0
+CLONAZEPAM	GBM	Neurology	0
+DESFLURANE	GBM	Pain management	0
+ACAMPROSATE CALCIUM	GBM	Psychiatry/Psychology	0
+LORAZEPAM	GBM	Psychiatry/Psychology	0
+MIDAZOLAM HYDROCHLORIDE	GBM	Pain management	0
+PRIMIDONE	GBM	Neurology	0
+PENTOBARBITAL	GBM	Neurology | Psychiatry/Psychology	0
+PENTOBARBITAL SODIUM	GBM	Neurology | Psychiatry/Psychology	0
+SECOBARBITAL SODIUM	GBM	Neurology	0
+ETOMIDATE	GBM	Pain management	0
+FLURAZEPAM DIHYDROCHLORIDE	GBM	Neurology	0
+ISOFLURANE	GBM	Pain management	0
+TOPIRAMATE	GBM	Neurology	0
+CLORAZEPATE	GBM	Neurology | Psychiatry/Psychology	0
+FLURAZEPAM	GBM	Neurology	0
+MIDAZOLAM	GBM	Pain management	0
+CLOBAZAM	GBM	Neurology	0
+BUTALBITAL	GBM	Pain management	0
+SEVOFLURANE	GBM	Pain management	0
+FLUMAZENIL	GBM	Pharmacology/Toxicology	0
+PROPOFOL	GBM	Pain management	0
+METHOHEXITAL SODIUM	GBM	Pain management	0
+ESZOPICLONE	GBM	Neurology	0
+MIDOSTAURIN	GBM	Oncology	0
+CARBOPLATIN	GBM	Oncology	0
+RETINOIC ACID	GBM	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	GBM	Oncology	0
+CYTARABINE	GBM	Oncology	0
+STREPTOZOCIN	GBM	Oncology	0
+IDELALISIB	GBM	Oncology	0
+COPANLISIB	GBM	Oncology	0
+RAPAMYCIN	GBM	Immunology/Infectious disease | Nephrology/Urology	0
+TEMSIROLIMUS	GBM	Oncology	0
+METFORMIN	GBM	Endocrinology	0
+PAZOPANIB	GBM	Oncology	0
+5-FLUOROURACIL	GBM	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	GBM	Oncology	0
+OXALIPLATIN	GBM	Oncology	0
+PACLITAXEL	GBM	Oncology	0
+CYCLOPHOSPHAMIDE	GBM	Oncology | Nephrology/Urology	0
+DOCETAXEL	GBM	Oncology	0
+GEMCITABINE	GBM	Oncology	0
+PEMETREXED	GBM	Oncology	0
+DASATINIB	GBM	Oncology	0
+REGORAFENIB	GBM	Oncology	0
+VANDETANIB	GBM	Oncology	0
+DOXORUBICIN	GBM	Oncology	0
+CYCLOSPORIN A	GBM	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	GBM	Oncology	0
+TRASTUZUMAB	GBM	Oncology	0
+RITUXIMAB	GBM	Oncology	0
+HALOPERIDOL	GBM	Psychiatry/Psychology	0
+PROGESTERONE	GBM	Endocrinology | Obstetrics/Gynecology	0
+NINTEDANIB	GBM	Pulmonary/Respiratory disease	0
+PONATINIB	GBM	Oncology	0
+ACALABRUTINIB	GBM	Oncology	0
+IBRUTINIB	GBM	Oncology	0
+PAZOPANIB HYDROCHLORIDE	GBM	Oncology	0
+VORINOSTAT	GBM	Oncology	0
+PANOBINOSTAT	GBM	Oncology	0
+BORTEZOMIB	GBM	Oncology	0
+5-AZACYTIDINE	GBM	Oncology	0
+ERLOTINIB HYDROCHLORIDE	GBM	Oncology	0
+ISOPROTERENOL	GBM	Pulmonary/Respiratory disease	0
+PROPYLTHIOURACIL	GBM	Endocrinology	0
+VINBLASTINE	GBM	Oncology	0
+PEMBROLIZUMAB	GBM	Oncology	0
+DEXAMETHASONE	GBM	Ophthalmology	0
+MITOMYCIN C	GBM	Oncology	0
+CAPECITABINE	GBM	Oncology	0
+METHOTREXATE	GBM	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+NITROGLYCERIN	GBM	Cardiology/Vascular disease | Gastroenterology	0
+AXITINIB	GBM	Oncology	0
+RIBOCICLIB	GBM	Oncology	0
+TRAMETINIB	GBM	Oncology	0
+COBIMETINIB	GBM	Oncology	0
+ATEZOLIZUMAB	GBM	Oncology	0
+PANITUMUMAB	GBM	Oncology	0
+SORAFENIB	GBM	Oncology	0
+VEMURAFENIB	GBM	Oncology	0
+LENVATINIB	GBM	Oncology	0
+PALBOCICLIB	GBM	Oncology	0
+AZD-9291	GBM	Oncology	0
+GEFITINIB	GBM	Oncology	0
+DABRAFENIB	GBM	Oncology	0
+AFATINIB	GBM	Oncology	0
+ABEMACICLIB	GBM	Oncology	0
+RALOXIFENE	GBM	Musculoskeletal | Oncology	0
+TARENFLURBIL	GBM	Pain management | Musculoskeletal	0
+ABT-199	GBM	Oncology	0
+METHIMAZOLE	GBM	Endocrinology	0
+PREDNISOLONE	GBM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	GBM	Oncology	0
+IMATINIB	GBM	Oncology	0
+CRIZOTINIB	GBM	Oncology	0
+DEHYDROEPIANDROSTERONE	GBM	Obstetrics/Gynecology	0
+NILOTINIB	GBM	Oncology	0
+ERLOTINIB	GBM	Oncology	0
+BOSUTINIB	GBM	Oncology	0
+URSODEOXYCHOLIC ACID	GBM	Gastroenterology	0
+SULINDAC	GBM	Pain management | Musculoskeletal	0
+DECITABINE	GBM	Hematology	0
+OLAPARIB	GBM	Oncology	0
+RUCAPARIB	GBM	Oncology	0
+NIRAPARIB	GBM	Oncology	0
+ENALAPRIL	GBM	Cardiology/Vascular disease	0
+NETARSUDIL	GBM	Ophthalmology	0
+ETOPOSIDE	GBM	Oncology	0
+ERISMODEGIB	GBM	Oncology	0
+TRIFLUOPERAZINE	GBM	Psychiatry/Psychology	0
+DAUNORUBICIN	GBM	Oncology	0
+IDARUBICIN	GBM	Oncology	0
+ALECTINIB	GBM	Oncology	0
+BRIGATINIB	GBM	Oncology	0
+TOPOTECAN	GBM	Oncology	0
+DURVALUMAB	GBM	Oncology	0
+NIVOLUMAB	GBM	Oncology	0
+LETROZOLE	GBM	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	GBM	Oncology	0
+LIDOCAINE	GBM	Pain management	0
+INSULIN HUMAN	GBM	Endocrinology	0
+FULVESTRANT	GBM	Oncology	0
+CABOZANTINIB	GBM	Oncology	0
+AFATINIB DIMALEATE	GBM	Oncology	0
+AZD-9291 MESYLATE	GBM	Oncology	0
+LAPATINIB	GBM	Oncology	0
+PRAMLINTIDE	GBM	Endocrinology	0
+SUNITINIB	GBM	Oncology	0
+SORAFENIB TOSYLATE	GBM	Oncology	0
+EPIRUBICIN	GBM	Oncology	0
+METHYLPREDNISOLONE	GBM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	GBM	Oncology	0
+MILTEFOSINE	GBM	Immunology/Infectious disease	0
+NERATINIB	GBM	Oncology	0
+FLOXURIDINE	GBM	Oncology	0
+PERTUZUMAB	GBM	Oncology	0
+NINTEDANIB ESYLATE	GBM	Pulmonary/Respiratory disease	0
+SECOBARBITAL	GBM	Neurology	0
+BECAPLERMIN	GBM	Dermatology/Plastic surgery | Endocrinology	0
+OLARATUMAB	GBM	Oncology	0
+RAMUCIRUMAB	GBM	Oncology	0
+SUNITINIB MALATE	GBM	Oncology	0
+ITRACONAZOLE	GBM	Immunology/Infectious disease	0
+METHOTREXATE SODIUM	GBM	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+MEPOLIZUMAB	GBM	Pulmonary/Respiratory disease	0
+RESLIZUMAB	GBM	Pulmonary/Respiratory disease	0
+PEGAPTANIB	GBM	Ophthalmology	1
+NECITUMUMAB	GBM	Oncology	0
+LAPATINIB DITOSYLATE	GBM	Oncology	0
+DABRAFENIB MESYLATE	GBM	Oncology	0
+THIOTEPA	GBM	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	GBM	Dermatology/Plastic surgery	1
+ASPARAGINASE	GBM	Oncology	0
+ENZALUTAMIDE	GBM	Oncology	0
+ABIRATERONE	GBM	Oncology	0
+TRABECTEDIN	GBM	Oncology	0
+TRIHEXYPHENIDYL	GBM	Neurology	0
+CYCLOPENTOLATE	GBM	Ophthalmology	0
+TROSPIUM	GBM	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	GBM	Neurology	0
+COBIMETINIB FUMARATE	GBM	Oncology	0
+1187431-43-1	GBM	Oncology	0
+INSULIN GLARGINE	GBM	Endocrinology	1
+MECASERMIN	GBM	Endocrinology	1
+ZINC CHLORIDE	GBM	Nutraceutical	0
+TRIFLURIDINE	GBM	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	GBM	Immunology/Infectious disease	0
+EDARAVONE	GBM	Musculoskeletal	1
+DIMETHYL FUMARATE	GBM	Neurology	0
+LOVASTATIN ACID	GBM	Cardiology/Vascular disease	0
+IRINOTECAN	HNSC	Oncology	0
+ETHANOL	HNSC	Neurology	0
+MIDOSTAURIN	HNSC	Oncology	0
+CARBOPLATIN	HNSC	Oncology	0
+RETINOIC ACID	HNSC	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	HNSC	Oncology	0
+CYTARABINE	HNSC	Oncology	0
+STREPTOZOCIN	HNSC	Oncology	0
+IDELALISIB	HNSC	Oncology	0
+COPANLISIB	HNSC	Oncology	0
+RAPAMYCIN	HNSC	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	HNSC	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	HNSC	Oncology	0
+METFORMIN	HNSC	Endocrinology	0
+PAZOPANIB	HNSC	Oncology	0
+5-FLUOROURACIL	HNSC	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	HNSC	Oncology	0
+OXALIPLATIN	HNSC	Oncology	0
+PHENYTOIN	HNSC	Neurology	0
+PACLITAXEL	HNSC	Oncology	0
+CYCLOPHOSPHAMIDE	HNSC	Oncology | Nephrology/Urology	0
+BEVACIZUMAB	HNSC	Oncology	0
+GEMCITABINE	HNSC	Oncology	0
+PEMETREXED	HNSC	Oncology	0
+L-ASCORBIC ACID	HNSC	Nutraceutical	0
+LITHIUM	HNSC	Psychiatry/Psychology	0
+CARBAMAZEPINE	HNSC	Neurology | Psychiatry/Psychology	0
+DASATINIB	HNSC	Oncology	0
+REGORAFENIB	HNSC	Oncology	0
+VANDETANIB	HNSC	Oncology	0
+DOXORUBICIN	HNSC	Oncology	0
+BROMOCRIPTINE	HNSC	Endocrinology | Neurology	0
+GLYCEROL	HNSC	Gastroenterology	0
+INDOMETHACIN	HNSC	Pain management | Musculoskeletal	0
+PALIFERMIN	HNSC	Dental/Maxillofacial surgery	0
+CYCLOSPORIN A	HNSC	Immunology/Infectious disease | Ophthalmology	0
+TRASTUZUMAB	HNSC	Oncology	0
+RITUXIMAB	HNSC	Oncology	0
+HALOPERIDOL	HNSC	Psychiatry/Psychology	0
+PROGESTERONE	HNSC	Endocrinology | Obstetrics/Gynecology	0
+NINTEDANIB	HNSC	Pulmonary/Respiratory disease	0
+PONATINIB	HNSC	Oncology	0
+IBRUTINIB	HNSC	Oncology	0
+PAZOPANIB HYDROCHLORIDE	HNSC	Oncology	0
+VORINOSTAT	HNSC	Oncology	0
+BELINOSTAT	HNSC	Oncology	0
+BORTEZOMIB	HNSC	Oncology	0
+RUXOLITINIB	HNSC	Oncology	0
+ROSIGLITAZONE	HNSC	Endocrinology	0
+ISOPROTERENOL	HNSC	Pulmonary/Respiratory disease	0
+THALIDOMIDE	HNSC	Dermatology/Plastic surgery | Oncology	0
+PROPYLTHIOURACIL	HNSC	Endocrinology	0
+ARSENIC TRIOXIDE	HNSC	Oncology	0
+DEXAMETHASONE	HNSC	Ophthalmology	0
+MITOMYCIN C	HNSC	Oncology	0
+CAPECITABINE	HNSC	Oncology	0
+NITROGLYCERIN	HNSC	Cardiology/Vascular disease | Gastroenterology	0
+RIBOCICLIB	HNSC	Oncology	0
+TRAMETINIB	HNSC	Oncology	0
+COBIMETINIB	HNSC	Oncology	0
+PANITUMUMAB	HNSC	Oncology	0
+SORAFENIB	HNSC	Oncology	0
+VEMURAFENIB	HNSC	Oncology	0
+PALBOCICLIB	HNSC	Oncology	0
+AZD-9291	HNSC	Oncology	0
+GEFITINIB	HNSC	Oncology	0
+DABRAFENIB	HNSC	Oncology	0
+ABEMACICLIB	HNSC	Oncology	0
+RALOXIFENE	HNSC	Musculoskeletal | Oncology	0
+TARENFLURBIL	HNSC	Pain management | Musculoskeletal	0
+ABT-199	HNSC	Oncology	0
+HYDROCORTISONE	HNSC	Dermatology/Plastic surgery	0
+SIMVASTATIN	HNSC	Hematology	0
+METHIMAZOLE	HNSC	Endocrinology	0
+PREDNISOLONE	HNSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	HNSC	Oncology	0
+IMATINIB	HNSC	Oncology	0
+CRIZOTINIB	HNSC	Oncology	0
+DEHYDROEPIANDROSTERONE	HNSC	Obstetrics/Gynecology	0
+DIMETHYL SULFOXIDE	HNSC	Pain management | Nephrology/Urology	0
+ERLOTINIB	HNSC	Oncology	0
+URSODEOXYCHOLIC ACID	HNSC	Gastroenterology	0
+SULINDAC	HNSC	Pain management | Musculoskeletal	0
+DECITABINE	HNSC	Hematology	0
+OLAPARIB	HNSC	Oncology	0
+RUCAPARIB	HNSC	Oncology	0
+NIRAPARIB	HNSC	Oncology	0
+ENALAPRIL	HNSC	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	HNSC	Oncology	1
+CLOFARABINE	HNSC	Oncology	1
+GEMCITABINE HYDROCHLORIDE	HNSC	Oncology	1
+NETARSUDIL	HNSC	Ophthalmology	0
+ETOPOSIDE	HNSC	Oncology	0
+VITAMIN E	HNSC	Nutraceutical	0
+TRIFLUOPERAZINE	HNSC	Psychiatry/Psychology	0
+DAUNORUBICIN	HNSC	Oncology	0
+IDARUBICIN	HNSC	Oncology	0
+ALECTINIB	HNSC	Oncology	0
+TOPOTECAN	HNSC	Oncology	0
+LETROZOLE	HNSC	Oncology	0
+TEMOZOLOMIDE	HNSC	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	HNSC	Oncology	0
+OXCARBAZEPINE	HNSC	Neurology	0
+INSULIN HUMAN	HNSC	Endocrinology	0
+CAPSAICIN	HNSC	Immunology/Infectious disease | Neurology | Pain management	0
+FLUTAMIDE	HNSC	Oncology	0
+FULVESTRANT	HNSC	Oncology	0
+CABOZANTINIB	HNSC	Oncology	0
+BICALUTAMIDE	HNSC	Oncology	0
+AFATINIB DIMALEATE	HNSC	Oncology	0
+AZD-9291 MESYLATE	HNSC	Oncology	0
+LAPATINIB	HNSC	Oncology	0
+PRAMLINTIDE	HNSC	Endocrinology	0
+BUMETANIDE	HNSC	Cardiology/Vascular disease	0
+EPIRUBICIN	HNSC	Oncology	0
+LEVODOPA	HNSC	Neurology	0
+METHYLPREDNISOLONE	HNSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	HNSC	Oncology	0
+MILTEFOSINE	HNSC	Immunology/Infectious disease	0
+NERATINIB	HNSC	Oncology	0
+FLOXURIDINE	HNSC	Oncology	0
+PERTUZUMAB	HNSC	Oncology	0
+NINTEDANIB ESYLATE	HNSC	Pulmonary/Respiratory disease	0
+ITRACONAZOLE	HNSC	Immunology/Infectious disease	0
+METHOTREXATE SODIUM	HNSC	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+ABACAVIR	HNSC	Immunology/Infectious disease	0
+PEGAPTANIB	HNSC	Ophthalmology	1
+NECITUMUMAB	HNSC	Oncology	0
+LAPATINIB DITOSYLATE	HNSC	Oncology	0
+RIBOCICLIB SUCCINATE	HNSC	Oncology	0
+THIOTEPA	HNSC	Immunology/Infectious disease | Oncology	0
+MIGLUSTAT	HNSC	Storage disease	0
+ELIGLUSTAT TARTRATE	HNSC	Storage disease	0
+5-AMINOLEVULINIC ACID	HNSC	Dermatology/Plastic surgery	1
+ASPARAGINASE	HNSC	Oncology	0
+ENZALUTAMIDE	HNSC	Oncology	0
+ABIRATERONE	HNSC	Oncology	0
+TRABECTEDIN	HNSC	Oncology	0
+ATOVAQUONE	HNSC	Immunology/Infectious disease	0
+ZINC CHLORIDE	HNSC	Nutraceutical	0
+TRIFLURIDINE	HNSC	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	HNSC	Immunology/Infectious disease	0
+EDARAVONE	HNSC	Musculoskeletal	1
+DIMETHYL FUMARATE	HNSC	Neurology	0
+LOVASTATIN ACID	HNSC	Cardiology/Vascular disease	0
+IRINOTECAN	KIRC	Oncology	0
+MIDOSTAURIN	KIRC	Oncology	0
+CARBOPLATIN	KIRC	Oncology	0
+VINCRISTINE	KIRC	Oncology	0
+CYTARABINE	KIRC	Oncology	0
+STREPTOZOCIN	KIRC	Oncology	0
+IDELALISIB	KIRC	Oncology	0
+COPANLISIB	KIRC	Oncology	0
+PIMECROLIMUS	KIRC	Dermatology/Plastic surgery	0
+RAPAMYCIN	KIRC	Immunology/Infectious disease | Nephrology/Urology	0
+METFORMIN	KIRC	Endocrinology	0
+5-FLUOROURACIL	KIRC	Oncology | Dermatology/Plastic surgery	0
+OXALIPLATIN	KIRC	Oncology	0
+PACLITAXEL	KIRC	Oncology	0
+CYCLOPHOSPHAMIDE	KIRC	Oncology | Nephrology/Urology	0
+DOCETAXEL	KIRC	Oncology	0
+GEMCITABINE	KIRC	Oncology	0
+PEMETREXED	KIRC	Oncology	0
+DASATINIB	KIRC	Oncology	0
+REGORAFENIB	KIRC	Oncology	0
+VANDETANIB	KIRC	Oncology	0
+DOXORUBICIN	KIRC	Oncology	0
+CETUXIMAB	KIRC	Oncology	0
+TRASTUZUMAB	KIRC	Oncology	0
+RITUXIMAB	KIRC	Oncology	0
+HALOPERIDOL	KIRC	Psychiatry/Psychology	0
+PROGESTERONE	KIRC	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	KIRC	Oncology	0
+IBRUTINIB	KIRC	Oncology	0
+VORINOSTAT	KIRC	Oncology	0
+PANOBINOSTAT	KIRC	Oncology	0
+VALPROIC ACID	KIRC	Neurology | Psychiatry/Psychology	0
+SODIUM 4-PHENYLBUTYRATE	KIRC	Hematology	0
+BORTEZOMIB	KIRC	Oncology	0
+RUXOLITINIB	KIRC	Oncology	0
+ERLOTINIB HYDROCHLORIDE	KIRC	Oncology	0
+IBUPROFEN	KIRC	Pain management	0
+PROPYLTHIOURACIL	KIRC	Endocrinology	0
+MITOMYCIN C	KIRC	Oncology	0
+CAPECITABINE	KIRC	Oncology	0
+METHOTREXATE	KIRC	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+RIBOCICLIB	KIRC	Oncology	0
+TRAMETINIB	KIRC	Oncology	0
+COBIMETINIB	KIRC	Oncology	0
+PANITUMUMAB	KIRC	Oncology	0
+VEMURAFENIB	KIRC	Oncology	0
+PALBOCICLIB	KIRC	Oncology	0
+AZD-9291	KIRC	Oncology	0
+GEFITINIB	KIRC	Oncology	0
+DABRAFENIB	KIRC	Oncology	0
+AFATINIB	KIRC	Oncology	0
+ABEMACICLIB	KIRC	Oncology	0
+RALOXIFENE	KIRC	Musculoskeletal | Oncology	0
+TARENFLURBIL	KIRC	Pain management | Musculoskeletal	0
+ABT-199	KIRC	Oncology	0
+NICOTINE	KIRC	Psychiatry/Psychology	0
+METHIMAZOLE	KIRC	Endocrinology	0
+TAMOXIFEN	KIRC	Oncology	0
+CRIZOTINIB	KIRC	Oncology	0
+DEHYDROEPIANDROSTERONE	KIRC	Obstetrics/Gynecology	0
+ERLOTINIB	KIRC	Oncology	0
+URSODEOXYCHOLIC ACID	KIRC	Gastroenterology	0
+SULINDAC	KIRC	Pain management | Musculoskeletal	0
+DECITABINE	KIRC	Hematology	0
+OLAPARIB	KIRC	Oncology	0
+RUCAPARIB	KIRC	Oncology	0
+NIRAPARIB	KIRC	Oncology	0
+ENALAPRIL	KIRC	Cardiology/Vascular disease	0
+CLADRIBINE	KIRC	Oncology	0
+FLUDARABINE	KIRC	Oncology	0
+ETOPOSIDE	KIRC	Oncology	0
+TRIFLUOPERAZINE	KIRC	Psychiatry/Psychology	0
+DAUNORUBICIN	KIRC	Oncology	0
+ALECTINIB	KIRC	Oncology	1
+BRIGATINIB	KIRC	Oncology	0
+TOPOTECAN	KIRC	Oncology	0
+DURVALUMAB	KIRC	Oncology	0
+LETROZOLE	KIRC	Oncology	0
+TEMOZOLOMIDE	KIRC	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	KIRC	Oncology	0
+FULVESTRANT	KIRC	Oncology	0
+CABOZANTINIB	KIRC	Oncology	0
+AFATINIB DIMALEATE	KIRC	Oncology	0
+AZD-9291 MESYLATE	KIRC	Oncology	0
+LAPATINIB	KIRC	Oncology	0
+PRAMLINTIDE	KIRC	Endocrinology	0
+EPIRUBICIN	KIRC	Oncology	0
+METHYLPREDNISOLONE	KIRC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+RIFABUTIN	KIRC	Immunology/Infectious disease	0
+IFOSFAMIDE	KIRC	Oncology	0
+LITHIUM CARBONATE	KIRC	Psychiatry/Psychology	0
+MILTEFOSINE	KIRC	Immunology/Infectious disease	0
+NERATINIB	KIRC	Oncology	0
+FLOXURIDINE	KIRC	Oncology	0
+PERTUZUMAB	KIRC	Oncology	0
+PEGAPTANIB	KIRC	Ophthalmology	1
+6-AMINOHEXANOIC ACID	KIRC	Hematology	0
+NECITUMUMAB	KIRC	Oncology	0
+LAPATINIB DITOSYLATE	KIRC	Oncology	0
+VISMODEGIB	KIRC	Oncology	0
+THIOTEPA	KIRC	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	KIRC	Dermatology/Plastic surgery	1
+PONATINIB HYDROCHLORIDE	KIRC	Oncology	1
+923288-90-8	KIRC	Oncology	0
+ENZALUTAMIDE	KIRC	Oncology	0
+ABIRATERONE	KIRC	Oncology	0
+TRABECTEDIN	KIRC	Oncology	0
+TRIHEXYPHENIDYL	KIRC	Neurology	0
+CYCLOPENTOLATE	KIRC	Ophthalmology	0
+TROSPIUM	KIRC	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	KIRC	Neurology	0
+INSULIN GLARGINE	KIRC	Endocrinology	1
+MECASERMIN	KIRC	Endocrinology	1
+ZINC CHLORIDE	KIRC	Nutraceutical	0
+TRIFLURIDINE	KIRC	Immunology/Infectious disease | Ophthalmology	0
+EDARAVONE	KIRC	Musculoskeletal	1
+INSULIN ASPART	KIRC	Endocrinology	1
+INSULIN ASPART PROTAMINE RECOMBINANT	KIRC	Endocrinology	1
+INSULIN DETEMIR	KIRC	Endocrinology	1
+INSULIN-GLARGINE	KIRC	Endocrinology	1
+INSULIN GLARGINE RECOMBINANT	KIRC	Endocrinology	1
+CHROMIC CHLORIDE	KIRC	Nutraceutical	1
+INSULIN DEGLUDEC	KIRC	Endocrinology	1
+INSULIN SUSP ISOPHANE RECOMBINANT HUMAN	KIRC	Endocrinology	1
+INSULIN LISPRO	KIRC	Endocrinology	1
+DIMETHYL FUMARATE	KIRC	Neurology	0
+IRINOTECAN	LGG	Oncology	0
+ETHANOL	LGG	Neurology	0
+MIDOSTAURIN	LGG	Oncology	0
+CARBOPLATIN	LGG	Oncology	0
+RETINOIC ACID	LGG	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	LGG	Oncology	0
+CYTARABINE	LGG	Oncology	0
+STREPTOZOCIN	LGG	Oncology	0
+IDELALISIB	LGG	Oncology	0
+COPANLISIB	LGG	Oncology	0
+RAPAMYCIN	LGG	Immunology/Infectious disease | Nephrology/Urology	0
+TEMSIROLIMUS	LGG	Oncology	0
+METFORMIN	LGG	Endocrinology	0
+PAZOPANIB	LGG	Oncology	0
+5-FLUOROURACIL	LGG	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	LGG	Oncology	0
+OXALIPLATIN	LGG	Oncology	0
+VINORELBINE	LGG	Oncology	0
+PACLITAXEL	LGG	Oncology	0
+CYCLOPHOSPHAMIDE	LGG	Oncology | Nephrology/Urology	0
+DOCETAXEL	LGG	Oncology	0
+GEMCITABINE	LGG	Oncology	0
+PEMETREXED	LGG	Oncology	0
+DASATINIB	LGG	Oncology	0
+REGORAFENIB	LGG	Oncology	0
+VANDETANIB	LGG	Oncology	0
+DOXORUBICIN	LGG	Oncology	0
+CETUXIMAB	LGG	Oncology	0
+TRASTUZUMAB	LGG	Oncology	0
+RITUXIMAB	LGG	Oncology	0
+HALOPERIDOL	LGG	Psychiatry/Psychology	0
+PROGESTERONE	LGG	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	LGG	Oncology	0
+ACALABRUTINIB	LGG	Oncology	0
+IBRUTINIB	LGG	Oncology	0
+VORINOSTAT	LGG	Oncology	0
+PANOBINOSTAT	LGG	Oncology	0
+BORTEZOMIB	LGG	Oncology	0
+5-AZACYTIDINE	LGG	Oncology	0
+ERLOTINIB HYDROCHLORIDE	LGG	Oncology	0
+ISOPROTERENOL	LGG	Pulmonary/Respiratory disease	0
+PROPYLTHIOURACIL	LGG	Endocrinology	0
+VINBLASTINE	LGG	Oncology	0
+PEMBROLIZUMAB	LGG	Oncology	0
+DEXAMETHASONE	LGG	Ophthalmology	0
+MITOMYCIN C	LGG	Oncology	0
+CAPECITABINE	LGG	Oncology	0
+METHOTREXATE	LGG	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+NITROGLYCERIN	LGG	Cardiology/Vascular disease | Gastroenterology	0
+RIBOCICLIB	LGG	Oncology	0
+TRAMETINIB	LGG	Oncology	0
+COBIMETINIB	LGG	Oncology	0
+ATEZOLIZUMAB	LGG	Oncology	0
+PANITUMUMAB	LGG	Oncology	0
+SORAFENIB	LGG	Oncology	0
+VEMURAFENIB	LGG	Oncology	0
+LENVATINIB	LGG	Oncology	0
+PALBOCICLIB	LGG	Oncology	0
+AZD-9291	LGG	Oncology	0
+GEFITINIB	LGG	Oncology	0
+DABRAFENIB	LGG	Oncology	0
+AFATINIB	LGG	Oncology	0
+ABEMACICLIB	LGG	Oncology	0
+RALOXIFENE	LGG	Musculoskeletal | Oncology	0
+TARENFLURBIL	LGG	Pain management | Musculoskeletal	0
+ABT-199	LGG	Oncology	0
+HYDROCORTISONE	LGG	Dermatology/Plastic surgery	0
+METHIMAZOLE	LGG	Endocrinology	0
+PREDNISOLONE	LGG	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	LGG	Oncology	0
+IMATINIB	LGG	Oncology	0
+CRIZOTINIB	LGG	Oncology	0
+DEHYDROEPIANDROSTERONE	LGG	Obstetrics/Gynecology	0
+NILOTINIB	LGG	Oncology	0
+ERLOTINIB	LGG	Oncology	0
+BOSUTINIB	LGG	Oncology	0
+URSODEOXYCHOLIC ACID	LGG	Gastroenterology	0
+SULINDAC	LGG	Pain management | Musculoskeletal	0
+DECITABINE	LGG	Hematology	0
+OLAPARIB	LGG	Oncology	0
+RUCAPARIB	LGG	Oncology	0
+NIRAPARIB	LGG	Oncology	0
+ENALAPRIL	LGG	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	LGG	Oncology	0
+CLADRIBINE	LGG	Oncology	1
+CLOFARABINE	LGG	Oncology	0
+FLUDARABINE	LGG	Oncology	1
+GEMCITABINE HYDROCHLORIDE	LGG	Oncology	0
+NETARSUDIL	LGG	Ophthalmology	0
+ETOPOSIDE	LGG	Oncology	0
+ERISMODEGIB	LGG	Oncology	0
+TRIFLUOPERAZINE	LGG	Psychiatry/Psychology	0
+DAUNORUBICIN	LGG	Oncology	0
+ALECTINIB	LGG	Oncology	1
+BRIGATINIB	LGG	Oncology	0
+TOPOTECAN	LGG	Oncology	0
+DURVALUMAB	LGG	Oncology	0
+NIVOLUMAB	LGG	Oncology	0
+LETROZOLE	LGG	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	LGG	Oncology	0
+LIDOCAINE	LGG	Pain management	0
+FULVESTRANT	LGG	Oncology	0
+CABOZANTINIB	LGG	Oncology	0
+AFATINIB DIMALEATE	LGG	Oncology	0
+AZD-9291 MESYLATE	LGG	Oncology	0
+LAPATINIB	LGG	Oncology	0
+PRAMLINTIDE	LGG	Endocrinology	0
+SUNITINIB	LGG	Oncology	0
+EPIRUBICIN	LGG	Oncology	0
+METHYLPREDNISOLONE	LGG	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	LGG	Oncology	0
+MILTEFOSINE	LGG	Immunology/Infectious disease	0
+NERATINIB	LGG	Oncology	0
+FLOXURIDINE	LGG	Oncology	0
+PERTUZUMAB	LGG	Oncology	0
+GANCICLOVIR	LGG	Immunology/Infectious disease	0
+RAMUCIRUMAB	LGG	Oncology	0
+ITRACONAZOLE	LGG	Immunology/Infectious disease	0
+NECITUMUMAB	LGG	Oncology	0
+LAPATINIB DITOSYLATE	LGG	Oncology	0
+RIBOCICLIB SUCCINATE	LGG	Oncology	0
+VISMODEGIB	LGG	Oncology	0
+THIOTEPA	LGG	Immunology/Infectious disease | Oncology	0
+MIGLUSTAT	LGG	Storage disease	0
+ELIGLUSTAT TARTRATE	LGG	Storage disease	0
+5-AMINOLEVULINIC ACID	LGG	Dermatology/Plastic surgery	1
+ASPARAGINASE	LGG	Oncology	0
+ENZALUTAMIDE	LGG	Oncology	0
+ABIRATERONE	LGG	Oncology	0
+TRABECTEDIN	LGG	Oncology	0
+BENZTROPINE MESYLATE	LGG	Neurology	0
+TRIHEXYPHENIDYL	LGG	Neurology	0
+CYCLOPENTOLATE	LGG	Ophthalmology	0
+TROSPIUM	LGG	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	LGG	Neurology	0
+INSULIN GLARGINE	LGG	Endocrinology	1
+MECASERMIN	LGG	Endocrinology	1
+ATOVAQUONE	LGG	Immunology/Infectious disease	0
+ZINC CHLORIDE	LGG	Nutraceutical	0
+TRIFLURIDINE	LGG	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	LGG	Immunology/Infectious disease	0
+EDARAVONE	LGG	Musculoskeletal	0
+DIMETHYL FUMARATE	LGG	Neurology	1
+RASAGILINE	LGG	Neurology	0
+SELEGILINE HYDROCHLORIDE	LGG	Neurology | Psychiatry/Psychology	0
+RASAGILINE MESYLATE	LGG	Neurology	0
+SAFINAMIDE MESYLATE	LGG	Neurology	0
+LORCASERIN HYDROCHLORIDE	LGG	Gastroenterology	1
+LOVASTATIN ACID	LGG	Cardiology/Vascular disease	0
+IRINOTECAN	LIHC	Oncology	0
+ETHANOL	LIHC	Neurology	0
+MIDOSTAURIN	LIHC	Oncology	0
+CARBOPLATIN	LIHC	Oncology	0
+RETINOIC ACID	LIHC	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	LIHC	Oncology	0
+CYTARABINE	LIHC	Oncology	0
+STREPTOZOCIN	LIHC	Oncology	0
+IDELALISIB	LIHC	Oncology	0
+COPANLISIB	LIHC	Oncology	0
+RAPAMYCIN	LIHC	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	LIHC	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	LIHC	Oncology	0
+METFORMIN	LIHC	Endocrinology	0
+PAZOPANIB	LIHC	Oncology	0
+5-FLUOROURACIL	LIHC	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	LIHC	Oncology	0
+OXALIPLATIN	LIHC	Oncology	0
+VINORELBINE	LIHC	Oncology	0
+PACLITAXEL	LIHC	Oncology	0
+CYCLOPHOSPHAMIDE	LIHC	Oncology | Nephrology/Urology	0
+DOCETAXEL	LIHC	Oncology	0
+CISPLATIN	LIHC	Oncology	0
+GEMCITABINE	LIHC	Oncology	0
+PEMETREXED	LIHC	Oncology	0
+L-ASCORBIC ACID	LIHC	Nutraceutical	0
+LITHIUM	LIHC	Psychiatry/Psychology	0
+CELECOXIB	LIHC	Pain management	0
+DASATINIB	LIHC	Oncology	0
+VANDETANIB	LIHC	Oncology	0
+DOXORUBICIN	LIHC	Oncology	0
+BROMOCRIPTINE	LIHC	Endocrinology | Neurology	0
+INDOMETHACIN	LIHC	Pain management | Musculoskeletal	0
+HEPARIN	LIHC	Hematology	0
+CYCLOSPORIN A	LIHC	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	LIHC	Oncology	0
+TRASTUZUMAB	LIHC	Oncology	0
+RITUXIMAB	LIHC	Oncology	0
+HALOPERIDOL	LIHC	Psychiatry/Psychology	0
+PONATINIB	LIHC	Oncology	0
+IBRUTINIB	LIHC	Oncology	0
+VORINOSTAT	LIHC	Oncology	0
+PANOBINOSTAT	LIHC	Oncology	0
+ROMIDEPSIN	LIHC	Oncology	0
+VALPROIC ACID	LIHC	Neurology | Psychiatry/Psychology	0
+SODIUM 4-PHENYLBUTYRATE	LIHC	Hematology	0
+IXAZOMIB CITRATE	LIHC	Oncology	1
+BORTEZOMIB	LIHC	Oncology	0
+CARFILZOMIB	LIHC	Oncology	1
+RUXOLITINIB	LIHC	Oncology	0
+5-AZACYTIDINE	LIHC	Oncology	0
+ROSIGLITAZONE	LIHC	Endocrinology	0
+ACETAMINOPHEN	LIHC	Pain management	0
+ASPIRIN	LIHC	Pain management | Cardiology/Vascular disease	0
+NAPROXEN	LIHC	Pain management	0
+PROPYLTHIOURACIL	LIHC	Endocrinology	0
+VINBLASTINE	LIHC	Oncology	0
+IRBESARTAN	LIHC	Cardiology/Vascular disease	0
+ARSENIC TRIOXIDE	LIHC	Oncology	0
+DEXAMETHASONE	LIHC	Ophthalmology	0
+MITOMYCIN C	LIHC	Oncology	0
+CAPECITABINE	LIHC	Oncology	0
+METHOTREXATE	LIHC	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+AXITINIB	LIHC	Oncology	0
+RIBOCICLIB	LIHC	Oncology	0
+TRAMETINIB	LIHC	Oncology	0
+COBIMETINIB	LIHC	Oncology	0
+PANITUMUMAB	LIHC	Oncology	0
+SORAFENIB	LIHC	Oncology	0
+VEMURAFENIB	LIHC	Oncology	0
+LENVATINIB	LIHC	Oncology	0
+PALBOCICLIB	LIHC	Oncology	0
+AZD-9291	LIHC	Oncology	0
+GEFITINIB	LIHC	Oncology	0
+DABRAFENIB	LIHC	Oncology	0
+AFATINIB	LIHC	Oncology	0
+ABEMACICLIB	LIHC	Oncology	0
+RALOXIFENE	LIHC	Musculoskeletal | Oncology	0
+TARENFLURBIL	LIHC	Pain management | Musculoskeletal	0
+ABT-199	LIHC	Oncology	0
+HYDROCORTISONE	LIHC	Dermatology/Plastic surgery	0
+SIMVASTATIN	LIHC	Hematology	0
+NICOTINE	LIHC	Psychiatry/Psychology	0
+ATORVASTATIN	LIHC	Cardiology/Vascular disease	0
+METHIMAZOLE	LIHC	Endocrinology	0
+PREDNISOLONE	LIHC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	LIHC	Oncology	0
+IMATINIB	LIHC	Oncology	0
+CRIZOTINIB	LIHC	Oncology	0
+DEHYDROEPIANDROSTERONE	LIHC	Obstetrics/Gynecology	0
+NILOTINIB	LIHC	Oncology	0
+ERLOTINIB	LIHC	Oncology	0
+LOVASTATIN	LIHC	Cardiology/Vascular disease	0
+URSODEOXYCHOLIC ACID	LIHC	Gastroenterology	0
+LENALIDOMIDE	LIHC	Oncology	0
+SULINDAC	LIHC	Pain management | Musculoskeletal	0
+DECITABINE	LIHC	Hematology	0
+OLAPARIB	LIHC	Oncology	0
+RUCAPARIB	LIHC	Oncology	0
+NIRAPARIB	LIHC	Oncology	0
+ENALAPRIL	LIHC	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	LIHC	Oncology	0
+CLADRIBINE	LIHC	Oncology	0
+CLOFARABINE	LIHC	Oncology	0
+FLUDARABINE	LIHC	Oncology	1
+GEMCITABINE HYDROCHLORIDE	LIHC	Oncology	0
+NETARSUDIL	LIHC	Ophthalmology	0
+ETOPOSIDE	LIHC	Oncology	0
+VITAMIN E	LIHC	Nutraceutical	0
+CHOLESTYRAMINE	LIHC	Hematology	0
+FENOFIBRATE	LIHC	Hematology	0
+NEVIRAPINE	LIHC	Immunology/Infectious disease	0
+PRAVASTATIN	LIHC	Cardiology/Vascular disease	0
+TRIFLUOPERAZINE	LIHC	Psychiatry/Psychology	0
+MIPOMERSEN	LIHC	Hematology	0
+DAUNORUBICIN	LIHC	Oncology	0
+IDARUBICIN	LIHC	Oncology	0
+ALECTINIB	LIHC	Oncology	0
+TOPOTECAN	LIHC	Oncology	0
+LETROZOLE	LIHC	Oncology	0
+RIFAMPICIN	LIHC	Immunology/Infectious disease	0
+TEMOZOLOMIDE	LIHC	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	LIHC	Oncology	0
+IXABEPILONE	LIHC	Oncology	0
+INSULIN HUMAN	LIHC	Endocrinology	0
+CAPSAICIN	LIHC	Immunology/Infectious disease | Neurology | Pain management	0
+FLUTAMIDE	LIHC	Oncology	0
+FULVESTRANT	LIHC	Oncology	0
+CABOZANTINIB	LIHC	Oncology	0
+MELPHALAN	LIHC	Oncology	0
+LOMUSTINE	LIHC	Oncology	0
+AFATINIB DIMALEATE	LIHC	Oncology	0
+AZD-9291 MESYLATE	LIHC	Oncology	0
+LAPATINIB	LIHC	Oncology	0
+PRAMLINTIDE	LIHC	Endocrinology	0
+SUNITINIB	LIHC	Oncology	0
+EPIRUBICIN	LIHC	Oncology	0
+UREA	LIHC	Dermatology/Plastic surgery	0
+METHYLPREDNISOLONE	LIHC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	LIHC	Oncology	0
+CEFOTAXIME	LIHC	Immunology/Infectious disease	0
+MILTEFOSINE	LIHC	Immunology/Infectious disease	0
+NERATINIB	LIHC	Oncology	0
+PERTUZUMAB	LIHC	Oncology	0
+GADOBENIC ACID	LIHC	Diagnostic agent	0
+IODIPAMIDE	LIHC	Diagnostic agent	0
+METHOTREXATE SODIUM	LIHC	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+ERIBULIN	LIHC	Oncology	1
+PEGAPTANIB	LIHC	Ophthalmology	1
+NECITUMUMAB	LIHC	Oncology	0
+LAPATINIB DITOSYLATE	LIHC	Oncology	0
+RIBOCICLIB SUCCINATE	LIHC	Oncology	0
+VISMODEGIB	LIHC	Oncology	0
+THIOTEPA	LIHC	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	LIHC	Dermatology/Plastic surgery	0
+ASPARAGINASE	LIHC	Oncology	0
+TRABECTEDIN	LIHC	Oncology	0
+TRIHEXYPHENIDYL	LIHC	Neurology	0
+CYCLOPENTOLATE	LIHC	Ophthalmology	0
+TROSPIUM	LIHC	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	LIHC	Neurology	0
+ZINC CHLORIDE	LIHC	Nutraceutical	0
+TRIFLURIDINE	LIHC	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	LIHC	Immunology/Infectious disease	0
+EDARAVONE	LIHC	Musculoskeletal	0
+DIMETHYL FUMARATE	LIHC	Neurology	0
+LOVASTATIN ACID	LIHC	Cardiology/Vascular disease	0
+IRINOTECAN	LUAD	Oncology	0
+ETHANOL	LUAD	Neurology	0
+MIDOSTAURIN	LUAD	Oncology	0
+RETINOIC ACID	LUAD	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	LUAD	Oncology	0
+CYTARABINE	LUAD	Oncology	0
+STREPTOZOCIN	LUAD	Oncology	0
+IDELALISIB	LUAD	Oncology	0
+COPANLISIB	LUAD	Oncology	0
+RAPAMYCIN	LUAD	Immunology/Infectious disease | Nephrology/Urology	0
+TEMSIROLIMUS	LUAD	Oncology	0
+METFORMIN	LUAD	Endocrinology	0
+PAZOPANIB	LUAD	Oncology	0
+5-FLUOROURACIL	LUAD	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	LUAD	Oncology	0
+OXALIPLATIN	LUAD	Oncology	0
+CYCLOPHOSPHAMIDE	LUAD	Oncology | Nephrology/Urology	0
+CELECOXIB	LUAD	Pain management	0
+DASATINIB	LUAD	Oncology	0
+REGORAFENIB	LUAD	Oncology	0
+VANDETANIB	LUAD	Oncology	0
+DOXORUBICIN	LUAD	Oncology	0
+CYCLOSPORIN A	LUAD	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	LUAD	Oncology	0
+TRASTUZUMAB	LUAD	Oncology	0
+RITUXIMAB	LUAD	Oncology	0
+HALOPERIDOL	LUAD	Psychiatry/Psychology	0
+PONATINIB	LUAD	Oncology	0
+ACALABRUTINIB	LUAD	Oncology	0
+IBRUTINIB	LUAD	Oncology	0
+VORINOSTAT	LUAD	Oncology	0
+PANOBINOSTAT	LUAD	Oncology	0
+ROMIDEPSIN	LUAD	Oncology	0
+VALPROIC ACID	LUAD	Neurology | Psychiatry/Psychology	0
+SODIUM 4-PHENYLBUTYRATE	LUAD	Hematology	0
+BORTEZOMIB	LUAD	Oncology	0
+PROPYLTHIOURACIL	LUAD	Endocrinology	0
+VINBLASTINE	LUAD	Oncology	0
+DEXAMETHASONE	LUAD	Ophthalmology	0
+MITOMYCIN C	LUAD	Oncology	0
+CAPECITABINE	LUAD	Oncology	0
+ACARBOSE	LUAD	Endocrinology	0
+NITROGLYCERIN	LUAD	Cardiology/Vascular disease | Gastroenterology	0
+RIBOCICLIB	LUAD	Oncology	0
+COBIMETINIB	LUAD	Oncology	0
+PANITUMUMAB	LUAD	Oncology	0
+SORAFENIB	LUAD	Oncology	0
+VEMURAFENIB	LUAD	Oncology	0
+LENVATINIB	LUAD	Oncology	0
+PALBOCICLIB	LUAD	Oncology	0
+AZD-9291	LUAD	Oncology	0
+DABRAFENIB	LUAD	Oncology	0
+ABEMACICLIB	LUAD	Oncology	0
+RALOXIFENE	LUAD	Musculoskeletal | Oncology	0
+TARENFLURBIL	LUAD	Pain management | Musculoskeletal	0
+ABT-199	LUAD	Oncology	0
+METHIMAZOLE	LUAD	Endocrinology	0
+PREDNISOLONE	LUAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	LUAD	Oncology	0
+IMATINIB	LUAD	Oncology	0
+DEHYDROEPIANDROSTERONE	LUAD	Obstetrics/Gynecology	0
+NILOTINIB	LUAD	Oncology	0
+BOSUTINIB	LUAD	Oncology	0
+URSODEOXYCHOLIC ACID	LUAD	Gastroenterology	0
+LENALIDOMIDE	LUAD	Oncology	0
+SULINDAC	LUAD	Pain management | Musculoskeletal	0
+DECITABINE	LUAD	Hematology	0
+OLAPARIB	LUAD	Oncology	0
+RUCAPARIB	LUAD	Oncology	0
+NIRAPARIB	LUAD	Oncology	0
+ENALAPRIL	LUAD	Cardiology/Vascular disease	0
+FLUDARABINE	LUAD	Oncology	0
+NETARSUDIL	LUAD	Ophthalmology	0
+ETOPOSIDE	LUAD	Oncology	0
+ERISMODEGIB	LUAD	Oncology	0
+TRIFLUOPERAZINE	LUAD	Psychiatry/Psychology	0
+DAUNORUBICIN	LUAD	Oncology	0
+IDARUBICIN	LUAD	Oncology	0
+LETROZOLE	LUAD	Oncology	0
+TEMOZOLOMIDE	LUAD	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	LUAD	Oncology	0
+IXABEPILONE	LUAD	Oncology	0
+LIDOCAINE	LUAD	Pain management	0
+INSULIN HUMAN	LUAD	Endocrinology	0
+CAPSAICIN	LUAD	Immunology/Infectious disease | Neurology | Pain management	0
+FULVESTRANT	LUAD	Oncology	0
+CABOZANTINIB	LUAD	Oncology	0
+AZD-9291 MESYLATE	LUAD	Oncology	0
+LAPATINIB	LUAD	Oncology	0
+PRAMLINTIDE	LUAD	Endocrinology	0
+SUNITINIB	LUAD	Oncology	0
+PIOGLITAZONE HYDROCHLORIDE	LUAD	Endocrinology	0
+ROSIGLITAZONE MALEATE	LUAD	Endocrinology	0
+SORAFENIB TOSYLATE	LUAD	Oncology	0
+EPIRUBICIN	LUAD	Oncology	0
+UREA	LUAD	Dermatology/Plastic surgery	0
+METHYLPREDNISOLONE	LUAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+RIFABUTIN	LUAD	Immunology/Infectious disease	0
+IFOSFAMIDE	LUAD	Oncology	0
+MILTEFOSINE	LUAD	Immunology/Infectious disease	0
+NERATINIB	LUAD	Oncology	0
+FLOXURIDINE	LUAD	Oncology	0
+PERTUZUMAB	LUAD	Oncology	0
+1140909-48-3	LUAD	Oncology	0
+ITRACONAZOLE	LUAD	Immunology/Infectious disease	0
+PEGAPTANIB	LUAD	Ophthalmology	1
+LAPATINIB DITOSYLATE	LUAD	Oncology	0
+VISMODEGIB	LUAD	Oncology	0
+MIGLITOL	LUAD	Endocrinology	0
+THIOTEPA	LUAD	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	LUAD	Dermatology/Plastic surgery	1
+ASPARAGINASE	LUAD	Oncology	0
+TRABECTEDIN	LUAD	Oncology	0
+TRIHEXYPHENIDYL	LUAD	Neurology	0
+CYCLOPENTOLATE	LUAD	Ophthalmology	0
+TROSPIUM	LUAD	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	LUAD	Neurology	0
+COBIMETINIB FUMARATE	LUAD	Oncology	0
+1187431-43-1	LUAD	Oncology	0
+MECASERMIN	LUAD	Endocrinology	1
+ZINC CHLORIDE	LUAD	Nutraceutical	0
+TRIFLURIDINE	LUAD	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	LUAD	Immunology/Infectious disease	0
+EDARAVONE	LUAD	Musculoskeletal	1
+DIMETHYL FUMARATE	LUAD	Neurology	0
+LOVASTATIN ACID	LUAD	Cardiology/Vascular disease	0
+IRINOTECAN	LUSC	Oncology	0
+ETHANOL	LUSC	Neurology	0
+MIDOSTAURIN	LUSC	Oncology	0
+RETINOIC ACID	LUSC	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	LUSC	Oncology	0
+CYTARABINE	LUSC	Oncology	0
+STREPTOZOCIN	LUSC	Oncology	0
+IDELALISIB	LUSC	Oncology	0
+COPANLISIB	LUSC	Oncology	0
+RAPAMYCIN	LUSC	Immunology/Infectious disease | Nephrology/Urology	0
+TEMSIROLIMUS	LUSC	Oncology	0
+METFORMIN	LUSC	Endocrinology	0
+PAZOPANIB	LUSC	Oncology	0
+5-FLUOROURACIL	LUSC	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	LUSC	Oncology	0
+OXALIPLATIN	LUSC	Oncology	0
+CYCLOPHOSPHAMIDE	LUSC	Oncology | Nephrology/Urology	0
+L-ASCORBIC ACID	LUSC	Nutraceutical	0
+LITHIUM	LUSC	Psychiatry/Psychology	0
+CARBAMAZEPINE	LUSC	Neurology | Psychiatry/Psychology	0
+DASATINIB	LUSC	Oncology	0
+REGORAFENIB	LUSC	Oncology	0
+VANDETANIB	LUSC	Oncology	0
+DOXORUBICIN	LUSC	Oncology	0
+BROMOCRIPTINE	LUSC	Endocrinology | Neurology	0
+INDOMETHACIN	LUSC	Pain management | Musculoskeletal	0
+PALIFERMIN	LUSC	Dental/Maxillofacial surgery	0
+CYCLOSPORIN A	LUSC	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	LUSC	Oncology	0
+TRASTUZUMAB	LUSC	Oncology	0
+RITUXIMAB	LUSC	Oncology	0
+HALOPERIDOL	LUSC	Psychiatry/Psychology	0
+PROGESTERONE	LUSC	Endocrinology | Obstetrics/Gynecology	0
+NINTEDANIB	LUSC	Pulmonary/Respiratory disease	0
+PONATINIB	LUSC	Oncology	0
+IBRUTINIB	LUSC	Oncology	0
+VORINOSTAT	LUSC	Oncology	0
+BELINOSTAT	LUSC	Oncology	0
+BORTEZOMIB	LUSC	Oncology	0
+FILGRASTIM	LUSC	Hematology | Oncology	0
+ROSIGLITAZONE	LUSC	Endocrinology	0
+THALIDOMIDE	LUSC	Dermatology/Plastic surgery | Oncology	0
+PROPYLTHIOURACIL	LUSC	Endocrinology	0
+VINBLASTINE	LUSC	Oncology	0
+DEXAMETHASONE	LUSC	Ophthalmology	0
+MITOMYCIN C	LUSC	Oncology	0
+CAPECITABINE	LUSC	Oncology	0
+CHLORAMBUCIL	LUSC	Oncology	0
+NITROGLYCERIN	LUSC	Cardiology/Vascular disease | Gastroenterology	0
+RIBOCICLIB	LUSC	Oncology	0
+COBIMETINIB	LUSC	Oncology	0
+PANITUMUMAB	LUSC	Oncology	0
+SORAFENIB	LUSC	Oncology	0
+VEMURAFENIB	LUSC	Oncology	0
+LENVATINIB	LUSC	Oncology	0
+PALBOCICLIB	LUSC	Oncology	0
+AZD-9291	LUSC	Oncology	0
+DABRAFENIB	LUSC	Oncology	0
+ABEMACICLIB	LUSC	Oncology	0
+RALOXIFENE	LUSC	Musculoskeletal | Oncology	0
+TARENFLURBIL	LUSC	Pain management | Musculoskeletal	0
+ABT-199	LUSC	Oncology	0
+HYDROCORTISONE	LUSC	Dermatology/Plastic surgery	0
+SIMVASTATIN	LUSC	Hematology	0
+METHIMAZOLE	LUSC	Endocrinology	0
+PREDNISOLONE	LUSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	LUSC	Oncology	0
+IMATINIB	LUSC	Oncology	0
+DEHYDROEPIANDROSTERONE	LUSC	Obstetrics/Gynecology	0
+DIMETHYL SULFOXIDE	LUSC	Pain management | Nephrology/Urology	0
+NILOTINIB	LUSC	Oncology	0
+URSODEOXYCHOLIC ACID	LUSC	Gastroenterology	0
+SULINDAC	LUSC	Pain management | Musculoskeletal	0
+DECITABINE	LUSC	Hematology	0
+OLAPARIB	LUSC	Oncology	0
+RUCAPARIB	LUSC	Oncology	0
+NIRAPARIB	LUSC	Oncology	0
+ENALAPRIL	LUSC	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	LUSC	Oncology	0
+CLOFARABINE	LUSC	Oncology	1
+HYDROXYUREA	LUSC	Hematology | Oncology	0
+NETARSUDIL	LUSC	Ophthalmology	0
+ETOPOSIDE	LUSC	Oncology	0
+VITAMIN E	LUSC	Nutraceutical	0
+TRIFLUOPERAZINE	LUSC	Psychiatry/Psychology	0
+DAUNORUBICIN	LUSC	Oncology	0
+IDARUBICIN	LUSC	Oncology	0
+LETROZOLE	LUSC	Oncology	0
+TEMOZOLOMIDE	LUSC	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	LUSC	Oncology	0
+INSULIN HUMAN	LUSC	Endocrinology	0
+CAPSAICIN	LUSC	Immunology/Infectious disease | Neurology | Pain management	0
+FLUTAMIDE	LUSC	Oncology	0
+FULVESTRANT	LUSC	Oncology	0
+CABOZANTINIB	LUSC	Oncology	0
+BICALUTAMIDE	LUSC	Oncology	0
+AZD-9291 MESYLATE	LUSC	Oncology	0
+LAPATINIB	LUSC	Oncology	0
+PRAMLINTIDE	LUSC	Endocrinology	0
+SUNITINIB	LUSC	Oncology	0
+EPIRUBICIN	LUSC	Oncology	0
+METHYLPREDNISOLONE	LUSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	LUSC	Oncology	0
+MILTEFOSINE	LUSC	Immunology/Infectious disease	0
+NERATINIB	LUSC	Oncology	0
+FLOXURIDINE	LUSC	Oncology	0
+PERTUZUMAB	LUSC	Oncology	0
+GANCICLOVIR	LUSC	Immunology/Infectious disease	0
+NINTEDANIB ESYLATE	LUSC	Pulmonary/Respiratory disease	0
+ITRACONAZOLE	LUSC	Immunology/Infectious disease	0
+PENTOSAN POLYSULFATE	LUSC	Nephrology/Urology	0
+PEGAPTANIB	LUSC	Ophthalmology	1
+LAPATINIB DITOSYLATE	LUSC	Oncology	0
+RIBOCICLIB SUCCINATE	LUSC	Oncology	0
+THIOTEPA	LUSC	Immunology/Infectious disease | Oncology	0
+MIGLUSTAT	LUSC	Storage disease	0
+ELIGLUSTAT TARTRATE	LUSC	Storage disease	0
+5-AMINOLEVULINIC ACID	LUSC	Dermatology/Plastic surgery	1
+ASPARAGINASE	LUSC	Oncology	0
+ENZALUTAMIDE	LUSC	Oncology	0
+ABIRATERONE	LUSC	Oncology	0
+TRABECTEDIN	LUSC	Oncology	0
+MECASERMIN	LUSC	Endocrinology	1
+ZINC CHLORIDE	LUSC	Nutraceutical	0
+TRIFLURIDINE	LUSC	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	LUSC	Immunology/Infectious disease	0
+EDARAVONE	LUSC	Musculoskeletal	1
+LOVASTATIN ACID	LUSC	Cardiology/Vascular disease	0
+IRINOTECAN	PRAD	Oncology	0
+MIDOSTAURIN	PRAD	Oncology	0
+CARBOPLATIN	PRAD	Oncology	0
+VINCRISTINE	PRAD	Oncology	0
+CYTARABINE	PRAD	Oncology	0
+STREPTOZOCIN	PRAD	Oncology	0
+IDELALISIB	PRAD	Oncology	0
+COPANLISIB	PRAD	Oncology	0
+RAPAMYCIN	PRAD	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	PRAD	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	PRAD	Oncology	0
+METFORMIN	PRAD	Endocrinology	0
+PAZOPANIB	PRAD	Oncology	0
+5-FLUOROURACIL	PRAD	Oncology | Dermatology/Plastic surgery	0
+OXALIPLATIN	PRAD	Oncology	0
+VINORELBINE	PRAD	Oncology	0
+PACLITAXEL	PRAD	Oncology	0
+CYCLOPHOSPHAMIDE	PRAD	Oncology | Nephrology/Urology	0
+BEVACIZUMAB	PRAD	Oncology	0
+GEMCITABINE	PRAD	Oncology	0
+PEMETREXED	PRAD	Oncology	0
+CELECOXIB	PRAD	Pain management	0
+DASATINIB	PRAD	Oncology	0
+REGORAFENIB	PRAD	Oncology	0
+VANDETANIB	PRAD	Oncology	0
+DOXORUBICIN	PRAD	Oncology	0
+RISPERIDONE	PRAD	Psychiatry/Psychology	0
+EFLORNITHINE	PRAD	Dermatology/Plastic surgery	0
+CYCLOSPORIN A	PRAD	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	PRAD	Oncology	0
+TRASTUZUMAB	PRAD	Oncology	0
+RITUXIMAB	PRAD	Oncology	0
+HALOPERIDOL	PRAD	Psychiatry/Psychology	0
+PROGESTERONE	PRAD	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	PRAD	Oncology	0
+IBRUTINIB	PRAD	Oncology	0
+VORINOSTAT	PRAD	Oncology	0
+PANOBINOSTAT	PRAD	Oncology	0
+SODIUM 4-PHENYLBUTYRATE	PRAD	Hematology	0
+BORTEZOMIB	PRAD	Oncology	0
+5-AZACYTIDINE	PRAD	Oncology	0
+IBUPROFEN	PRAD	Pain management	0
+PROPYLTHIOURACIL	PRAD	Endocrinology	0
+ARSENIC TRIOXIDE	PRAD	Oncology	0
+PEMBROLIZUMAB	PRAD	Oncology	0
+MITOMYCIN C	PRAD	Oncology	0
+CAPECITABINE	PRAD	Oncology	0
+NITROGLYCERIN	PRAD	Cardiology/Vascular disease | Gastroenterology	0
+RIBOCICLIB	PRAD	Oncology	0
+TRAMETINIB	PRAD	Oncology	0
+COBIMETINIB	PRAD	Oncology	0
+ATEZOLIZUMAB	PRAD	Oncology	0
+PANITUMUMAB	PRAD	Oncology	0
+SORAFENIB	PRAD	Oncology	0
+VEMURAFENIB	PRAD	Oncology	0
+LENVATINIB	PRAD	Oncology	0
+PALBOCICLIB	PRAD	Oncology	0
+AZD-9291	PRAD	Oncology	0
+GEFITINIB	PRAD	Oncology	0
+DABRAFENIB	PRAD	Oncology	0
+AFATINIB	PRAD	Oncology	0
+ABEMACICLIB	PRAD	Oncology	0
+RALOXIFENE	PRAD	Musculoskeletal | Oncology	0
+TARENFLURBIL	PRAD	Pain management | Musculoskeletal	0
+ABT-199	PRAD	Oncology	0
+METHIMAZOLE	PRAD	Endocrinology	0
+TAMOXIFEN	PRAD	Oncology	0
+IMATINIB	PRAD	Oncology	0
+CRIZOTINIB	PRAD	Oncology	0
+DEHYDROEPIANDROSTERONE	PRAD	Obstetrics/Gynecology	0
+DIMETHYL SULFOXIDE	PRAD	Pain management | Nephrology/Urology	0
+ERLOTINIB	PRAD	Oncology	0
+URSODEOXYCHOLIC ACID	PRAD	Gastroenterology	0
+SULINDAC	PRAD	Pain management | Musculoskeletal	0
+DECITABINE	PRAD	Hematology	0
+RUCAPARIB	PRAD	Oncology	0
+NIRAPARIB	PRAD	Oncology	0
+ENALAPRIL	PRAD	Cardiology/Vascular disease	0
+HYDROXYUREA	PRAD	Hematology | Oncology	0
+ETOPOSIDE	PRAD	Oncology	0
+VITAMIN E	PRAD	Nutraceutical	0
+TRIFLUOPERAZINE	PRAD	Psychiatry/Psychology	0
+DAUNORUBICIN	PRAD	Oncology	0
+IDARUBICIN	PRAD	Oncology	0
+BRIGATINIB	PRAD	Oncology	1
+TOPOTECAN	PRAD	Oncology	0
+NIVOLUMAB	PRAD	Oncology	0
+LETROZOLE	PRAD	Oncology	0
+TEMOZOLOMIDE	PRAD	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	PRAD	Oncology	0
+FULVESTRANT	PRAD	Oncology	0
+CABOZANTINIB	PRAD	Oncology	0
+LOMUSTINE	PRAD	Oncology	0
+AFATINIB DIMALEATE	PRAD	Oncology	0
+AZD-9291 MESYLATE	PRAD	Oncology	0
+LAPATINIB	PRAD	Oncology	0
+PRAMLINTIDE	PRAD	Endocrinology	0
+SORAFENIB TOSYLATE	PRAD	Oncology	0
+LIOTHYRONINE	PRAD	Endocrinology	0
+EPIRUBICIN	PRAD	Oncology	0
+UREA	PRAD	Dermatology/Plastic surgery	0
+METHYLPREDNISOLONE	PRAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	PRAD	Oncology	0
+MILTEFOSINE	PRAD	Immunology/Infectious disease	0
+NERATINIB	PRAD	Oncology	0
+FLOXURIDINE	PRAD	Oncology	0
+PERTUZUMAB	PRAD	Oncology	0
+GANCICLOVIR	PRAD	Immunology/Infectious disease	0
+RAMUCIRUMAB	PRAD	Oncology	0
+PEMETREXED DISODIUM	PRAD	Oncology	0
+METHOTREXATE SODIUM	PRAD	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+NELFINAVIR	PRAD	Immunology/Infectious disease	0
+6-AMINOHEXANOIC ACID	PRAD	Hematology	0
+DEFIBROTIDE SODIUM	PRAD	Gastroenterology	0
+NECITUMUMAB	PRAD	Oncology	0
+LAPATINIB DITOSYLATE	PRAD	Oncology	0
+DABRAFENIB MESYLATE	PRAD	Oncology	0
+THIOTEPA	PRAD	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	PRAD	Dermatology/Plastic surgery	1
+TRABECTEDIN	PRAD	Oncology	0
+COBIMETINIB FUMARATE	PRAD	Oncology	0
+1187431-43-1	PRAD	Oncology	0
+INSULIN GLARGINE	PRAD	Endocrinology	1
+MECASERMIN	PRAD	Endocrinology	1
+ZINC CHLORIDE	PRAD	Nutraceutical	0
+TRIFLURIDINE	PRAD	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	PRAD	Immunology/Infectious disease	0
+EDARAVONE	PRAD	Musculoskeletal	1
+DIMETHYL FUMARATE	PRAD	Neurology	1
+TIPIRACIL	PRAD	Oncology	0
+TIPIRACIL HYDROCHLORIDE	PRAD	Oncology	0
+LOVASTATIN ACID	PRAD	Cardiology/Vascular disease	0
+IRINOTECAN	SKCM	Oncology	0
+MIDOSTAURIN	SKCM	Oncology	0
+CARBOPLATIN	SKCM	Oncology	0
+RETINOIC ACID	SKCM	Dermatology/Plastic surgery | Oncology	0
+CYTARABINE	SKCM	Oncology	0
+STREPTOZOCIN	SKCM	Oncology	0
+IDELALISIB	SKCM	Oncology	0
+COPANLISIB	SKCM	Oncology	0
+GADOPENTETATE DIMEGLUMINE	SKCM	Diagnostic agent	0
+RAPAMYCIN	SKCM	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	SKCM	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	SKCM	Oncology	0
+METFORMIN	SKCM	Endocrinology	0
+PAZOPANIB	SKCM	Oncology	0
+5-FLUOROURACIL	SKCM	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	SKCM	Oncology	0
+OXALIPLATIN	SKCM	Oncology	0
+CYCLOPHOSPHAMIDE	SKCM	Oncology | Nephrology/Urology	0
+DOCETAXEL	SKCM	Oncology	0
+BEVACIZUMAB	SKCM	Oncology	0
+GEMCITABINE	SKCM	Oncology	0
+PEMETREXED	SKCM	Oncology	0
+L-ASCORBIC ACID	SKCM	Nutraceutical	0
+CELECOXIB	SKCM	Pain management	0
+DASATINIB	SKCM	Oncology	0
+REGORAFENIB	SKCM	Oncology	0
+VANDETANIB	SKCM	Oncology	0
+DOXORUBICIN	SKCM	Oncology	0
+CETUXIMAB	SKCM	Oncology	0
+TRASTUZUMAB	SKCM	Oncology	0
+RITUXIMAB	SKCM	Oncology	0
+HALOPERIDOL	SKCM	Psychiatry/Psychology	0
+PROGESTERONE	SKCM	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	SKCM	Oncology	0
+IBRUTINIB	SKCM	Oncology	0
+PAZOPANIB HYDROCHLORIDE	SKCM	Oncology	0
+PANOBINOSTAT	SKCM	Oncology	0
+ROMIDEPSIN	SKCM	Oncology	0
+SODIUM 4-PHENYLBUTYRATE	SKCM	Hematology	0
+BORTEZOMIB	SKCM	Oncology	0
+5-AZACYTIDINE	SKCM	Oncology	0
+SEMAXANIB	SKCM	Hematology	0
+ACETAMINOPHEN	SKCM	Pain management	0
+PROPYLTHIOURACIL	SKCM	Endocrinology	0
+ARSENIC TRIOXIDE	SKCM	Oncology	0
+PEMBROLIZUMAB	SKCM	Oncology	0
+APREMILAST	SKCM	Immunology/Infectious disease | Musculoskeletal	0
+OCRIPLASMIN	SKCM	Ophthalmology	0
+COLLAGENASE CLOSTRIDIUM HISTOLYTICUM	SKCM	Musculoskeletal	0
+DEXAMETHASONE	SKCM	Ophthalmology	0
+MITOMYCIN C	SKCM	Oncology	0
+CAPECITABINE	SKCM	Oncology	0
+METHOTREXATE	SKCM	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+NITROGLYCERIN	SKCM	Cardiology/Vascular disease | Gastroenterology	0
+AXITINIB	SKCM	Oncology	0
+RIBOCICLIB	SKCM	Oncology	0
+ATEZOLIZUMAB	SKCM	Oncology	0
+PANITUMUMAB	SKCM	Oncology	0
+SORAFENIB	SKCM	Oncology	0
+LENVATINIB	SKCM	Oncology	0
+PALBOCICLIB	SKCM	Oncology	0
+AZD-9291	SKCM	Oncology	0
+GEFITINIB	SKCM	Oncology	0
+AFATINIB	SKCM	Oncology	0
+ABEMACICLIB	SKCM	Oncology	0
+POTASSIUM	SKCM	Hematology | Nephrology/Urology	0
+MAGNESIUM	SKCM	Nutraceutical	0
+CICLOPIROX	SKCM	Immunology/Infectious disease	0
+ALUMINUM	SKCM	Gastroenterology	0
+LUMEFANTRINE	SKCM	Immunology/Infectious disease	0
+TARENFLURBIL	SKCM	Pain management | Musculoskeletal	0
+ABT-199	SKCM	Oncology	0
+NICOTINE	SKCM	Psychiatry/Psychology	0
+METHIMAZOLE	SKCM	Endocrinology	0
+PREDNISOLONE	SKCM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	SKCM	Oncology	0
+IMATINIB	SKCM	Oncology	0
+CRIZOTINIB	SKCM	Oncology	0
+DIMETHYL SULFOXIDE	SKCM	Pain management | Nephrology/Urology	0
+NILOTINIB	SKCM	Oncology	0
+ERLOTINIB	SKCM	Oncology	0
+BOSUTINIB	SKCM	Oncology	0
+URSODEOXYCHOLIC ACID	SKCM	Gastroenterology	0
+LENALIDOMIDE	SKCM	Oncology	0
+DECITABINE	SKCM	Hematology	0
+OLAPARIB	SKCM	Oncology	0
+RUCAPARIB	SKCM	Oncology	0
+NIRAPARIB	SKCM	Oncology	0
+ENALAPRIL	SKCM	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	SKCM	Oncology	0
+CLADRIBINE	SKCM	Oncology	0
+CLOFARABINE	SKCM	Oncology	0
+FLUDARABINE	SKCM	Oncology	1
+HYDROXYUREA	SKCM	Hematology | Oncology	0
+GEMCITABINE HYDROCHLORIDE	SKCM	Oncology	0
+NETARSUDIL	SKCM	Ophthalmology	0
+ETOPOSIDE	SKCM	Oncology	0
+VITAMIN E	SKCM	Nutraceutical	0
+TRIFLUOPERAZINE	SKCM	Psychiatry/Psychology	0
+DAUNORUBICIN	SKCM	Oncology	0
+IDARUBICIN	SKCM	Oncology	0
+CERITINIB	SKCM	Oncology	0
+ALECTINIB	SKCM	Oncology	0
+TOPOTECAN	SKCM	Oncology	0
+NIVOLUMAB	SKCM	Oncology	0
+LETROZOLE	SKCM	Oncology	0
+TEMOZOLOMIDE	SKCM	Oncology	0
+IXABEPILONE	SKCM	Oncology	0
+INSULIN HUMAN	SKCM	Endocrinology	0
+CAPSAICIN	SKCM	Immunology/Infectious disease | Neurology | Pain management	0
+FULVESTRANT	SKCM	Oncology	0
+CABOZANTINIB	SKCM	Oncology	0
+MELPHALAN	SKCM	Oncology	0
+LOMUSTINE	SKCM	Oncology	0
+AFATINIB DIMALEATE	SKCM	Oncology	0
+LAPATINIB	SKCM	Oncology	0
+PRAMLINTIDE	SKCM	Endocrinology	0
+BUMETANIDE	SKCM	Cardiology/Vascular disease	1
+SUNITINIB	SKCM	Oncology	0
+SORAFENIB TOSYLATE	SKCM	Oncology	0
+EPIRUBICIN	SKCM	Oncology	0
+UREA	SKCM	Dermatology/Plastic surgery	0
+L-LEUCINE	SKCM	Nutraceutical	1
+METHYLPREDNISOLONE	SKCM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+RIFABUTIN	SKCM	Immunology/Infectious disease	0
+IFOSFAMIDE	SKCM	Oncology	0
+NERATINIB	SKCM	Oncology	0
+RAMUCIRUMAB	SKCM	Oncology	0
+SUNITINIB MALATE	SKCM	Oncology	0
+IMATINIB MESYLATE	SKCM	Oncology	0
+ITRACONAZOLE	SKCM	Immunology/Infectious disease	0
+TERIFLUNOMIDE	SKCM	Neurology	1
+PROGUANIL	SKCM	Immunology/Infectious disease	0
+PEMETREXED DISODIUM	SKCM	Oncology	0
+METHOTREXATE SODIUM	SKCM	Oncology | Dermatology/Plastic surgery | Musculoskeletal	0
+MEPOLIZUMAB	SKCM	Pulmonary/Respiratory disease	0
+RESLIZUMAB	SKCM	Pulmonary/Respiratory disease	0
+ERIBULIN	SKCM	Oncology	1
+PEGAPTANIB	SKCM	Ophthalmology	1
+6-AMINOHEXANOIC ACID	SKCM	Hematology	0
+NECITUMUMAB	SKCM	Oncology	0
+LAPATINIB DITOSYLATE	SKCM	Oncology	0
+RIBOCICLIB SUCCINATE	SKCM	Oncology	0
+THIOTEPA	SKCM	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	SKCM	Dermatology/Plastic surgery	0
+ASPARAGINASE	SKCM	Oncology	0
+ENZALUTAMIDE	SKCM	Oncology	0
+ABIRATERONE	SKCM	Oncology	0
+TRABECTEDIN	SKCM	Oncology	0
+MECASERMIN	SKCM	Endocrinology	1
+ATOVAQUONE	SKCM	Immunology/Infectious disease	0
+ZINC CHLORIDE	SKCM	Nutraceutical	0
+TRIFLURIDINE	SKCM	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	SKCM	Immunology/Infectious disease	0
+EDARAVONE	SKCM	Musculoskeletal	0
+DIMETHYL FUMARATE	SKCM	Neurology	1
+NELARABINE	SKCM	Oncology	0
+RASAGILINE	SKCM	Neurology	0
+SELEGILINE HYDROCHLORIDE	SKCM	Neurology | Psychiatry/Psychology	0
+RASAGILINE MESYLATE	SKCM	Neurology	0
+SAFINAMIDE MESYLATE	SKCM	Neurology	0
+LOVASTATIN ACID	SKCM	Cardiology/Vascular disease	0
+IRINOTECAN	STAD	Oncology	0
+MIDOSTAURIN	STAD	Oncology	0
+CARBOPLATIN	STAD	Oncology	0
+RETINOIC ACID	STAD	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	STAD	Oncology	0
+CYTARABINE	STAD	Oncology	0
+STREPTOZOCIN	STAD	Oncology	0
+IDELALISIB	STAD	Oncology	0
+COPANLISIB	STAD	Oncology	0
+RAPAMYCIN	STAD	Immunology/Infectious disease | Nephrology/Urology	0
+TEMSIROLIMUS	STAD	Oncology	0
+METFORMIN	STAD	Endocrinology	0
+PAZOPANIB	STAD	Oncology	0
+5-FLUOROURACIL	STAD	Oncology | Dermatology/Plastic surgery	0
+OXALIPLATIN	STAD	Oncology	0
+VINORELBINE	STAD	Oncology	0
+PACLITAXEL	STAD	Oncology	0
+CYCLOPHOSPHAMIDE	STAD	Oncology | Nephrology/Urology	0
+BEVACIZUMAB	STAD	Oncology	0
+GEMCITABINE	STAD	Oncology	0
+PEMETREXED	STAD	Oncology	0
+CELECOXIB	STAD	Pain management	0
+DASATINIB	STAD	Oncology	0
+VANDETANIB	STAD	Oncology	0
+DOXORUBICIN	STAD	Oncology	0
+EFLORNITHINE	STAD	Dermatology/Plastic surgery	0
+CETUXIMAB	STAD	Oncology	0
+RITUXIMAB	STAD	Oncology	0
+HALOPERIDOL	STAD	Psychiatry/Psychology	0
+PROGESTERONE	STAD	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	STAD	Oncology	0
+ACALABRUTINIB	STAD	Oncology	0
+IBRUTINIB	STAD	Oncology	0
+VORINOSTAT	STAD	Oncology	0
+BELINOSTAT	STAD	Oncology	0
+PANOBINOSTAT	STAD	Oncology	0
+ROMIDEPSIN	STAD	Oncology	0
+BORTEZOMIB	STAD	Oncology	0
+FILGRASTIM	STAD	Hematology | Oncology	0
+ERLOTINIB HYDROCHLORIDE	STAD	Oncology	0
+IBUPROFEN	STAD	Pain management	0
+PROPYLTHIOURACIL	STAD	Endocrinology	0
+CAPECITABINE	STAD	Oncology	0
+CHLORAMBUCIL	STAD	Oncology	0
+RIBOCICLIB	STAD	Oncology	0
+TRAMETINIB	STAD	Oncology	0
+COBIMETINIB	STAD	Oncology	0
+ATEZOLIZUMAB	STAD	Oncology	0
+PANITUMUMAB	STAD	Oncology	0
+SORAFENIB	STAD	Oncology	0
+VEMURAFENIB	STAD	Oncology	0
+PALBOCICLIB	STAD	Oncology	0
+AZD-9291	STAD	Oncology	0
+GEFITINIB	STAD	Oncology	0
+DABRAFENIB	STAD	Oncology	0
+AFATINIB	STAD	Oncology	0
+ABEMACICLIB	STAD	Oncology	0
+RALOXIFENE	STAD	Musculoskeletal | Oncology	0
+TARENFLURBIL	STAD	Pain management | Musculoskeletal	0
+ABT-199	STAD	Oncology	0
+HYDROCORTISONE	STAD	Dermatology/Plastic surgery	0
+METHIMAZOLE	STAD	Endocrinology	0
+TAMOXIFEN	STAD	Oncology	0
+EXEMESTANE	STAD	Oncology	0
+IMATINIB	STAD	Oncology	0
+CRIZOTINIB	STAD	Oncology	0
+DEHYDROEPIANDROSTERONE	STAD	Obstetrics/Gynecology	0
+NILOTINIB	STAD	Oncology	0
+ERLOTINIB	STAD	Oncology	0
+URSODEOXYCHOLIC ACID	STAD	Gastroenterology	0
+LENALIDOMIDE	STAD	Oncology	0
+SULINDAC	STAD	Pain management | Musculoskeletal	0
+DECITABINE	STAD	Hematology	0
+OLAPARIB	STAD	Oncology	0
+RUCAPARIB	STAD	Oncology	0
+NIRAPARIB	STAD	Oncology	0
+ENALAPRIL	STAD	Cardiology/Vascular disease	0
+PILOCARPINE HYDROCHLORIDE	STAD	Otolaryngology | Oncology | Ophthalmology	0
+CEVIMELINE HYDROCHLORIDE	STAD	Immunology/Infectious disease	0
+DICYCLOMINE HYDROCHLORIDE	STAD	Gastroenterology	0
+SCOPOLAMINE METHYL BROMIDE	STAD	Gastroenterology	0
+CLIDINIUM BROMIDE	STAD	Gastroenterology	0
+NETARSUDIL	STAD	Ophthalmology	0
+ETOPOSIDE	STAD	Oncology	0
+VITAMIN E	STAD	Nutraceutical	0
+TRIFLUOPERAZINE	STAD	Psychiatry/Psychology	0
+DAUNORUBICIN	STAD	Oncology	0
+IDARUBICIN	STAD	Oncology	0
+ALECTINIB	STAD	Oncology	0
+BRIGATINIB	STAD	Oncology	0
+TOPOTECAN	STAD	Oncology	0
+DURVALUMAB	STAD	Oncology	0
+NIVOLUMAB	STAD	Oncology	0
+ANASTROZOLE	STAD	Oncology	0
+LETROZOLE	STAD	Oncology	0
+TEMOZOLOMIDE	STAD	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	STAD	Oncology	0
+IXABEPILONE	STAD	Oncology	0
+CAPSAICIN	STAD	Immunology/Infectious disease | Neurology | Pain management	0
+FULVESTRANT	STAD	Oncology	0
+CABOZANTINIB	STAD	Oncology	0
+BICALUTAMIDE	STAD	Oncology	0
+AFATINIB DIMALEATE	STAD	Oncology	0
+AZD-9291 MESYLATE	STAD	Oncology	0
+LAPATINIB	STAD	Oncology	0
+AMIFOSTINE	STAD	Oncology | Nephrology/Urology | Otolaryngology	0
+PRAMLINTIDE	STAD	Endocrinology	0
+DOXYLAMINE	STAD	Neurology | Immunology/Infectious disease | Obstetrics/Gynecology	0
+CARBINOXAMINE	STAD	Immunology/Infectious disease	0
+LIOTHYRONINE	STAD	Endocrinology	0
+EPIRUBICIN	STAD	Oncology	0
+UREA	STAD	Dermatology/Plastic surgery	0
+METHYLPREDNISOLONE	STAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	STAD	Oncology	0
+MILTEFOSINE	STAD	Immunology/Infectious disease	0
+NERATINIB	STAD	Oncology	0
+FLOXURIDINE	STAD	Oncology	0
+PERTUZUMAB	STAD	Oncology	0
+GANCICLOVIR	STAD	Immunology/Infectious disease	0
+ITRACONAZOLE	STAD	Immunology/Infectious disease	0
+PEGAPTANIB	STAD	Ophthalmology	1
+6-AMINOHEXANOIC ACID	STAD	Hematology	0
+NECITUMUMAB	STAD	Oncology	0
+LAPATINIB DITOSYLATE	STAD	Oncology	0
+VISMODEGIB	STAD	Oncology	0
+FLAVOXATE	STAD	Nephrology/Urology	0
+THIOTEPA	STAD	Immunology/Infectious disease | Oncology	0
+MIGLUSTAT	STAD	Storage disease	0
+ELIGLUSTAT TARTRATE	STAD	Storage disease	0
+5-AMINOLEVULINIC ACID	STAD	Dermatology/Plastic surgery	0
+ENZALUTAMIDE	STAD	Oncology	0
+ABIRATERONE	STAD	Oncology	0
+TRABECTEDIN	STAD	Oncology	0
+BENZTROPINE MESYLATE	STAD	Neurology	0
+TRIHEXYPHENIDYL	STAD	Neurology	0
+CYCLOPENTOLATE	STAD	Ophthalmology	0
+TROSPIUM	STAD	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	STAD	Neurology	0
+INSULIN GLARGINE	STAD	Endocrinology	1
+MECASERMIN	STAD	Endocrinology	1
+ZINC CHLORIDE	STAD	Nutraceutical	0
+TRIFLURIDINE	STAD	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	STAD	Immunology/Infectious disease	0
+EDARAVONE	STAD	Musculoskeletal	0
+DIMETHYL FUMARATE	STAD	Neurology	0
+ETEPLIRSEN	STAD	Musculoskeletal	0
+LOVASTATIN ACID	STAD	Cardiology/Vascular disease	0
+IRINOTECAN	UCEC	Oncology	0
+ETHANOL	UCEC	Neurology	0
+MIDOSTAURIN	UCEC	Oncology	0
+CARBOPLATIN	UCEC	Oncology	0
+RETINOIC ACID	UCEC	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	UCEC	Oncology	0
+CYTARABINE	UCEC	Oncology	0
+STREPTOZOCIN	UCEC	Oncology	0
+IDELALISIB	UCEC	Oncology	0
+COPANLISIB	UCEC	Oncology	0
+RAPAMYCIN	UCEC	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	UCEC	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	UCEC	Oncology	0
+METFORMIN	UCEC	Endocrinology	0
+PAZOPANIB	UCEC	Oncology	0
+5-FLUOROURACIL	UCEC	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	UCEC	Oncology	0
+OXALIPLATIN	UCEC	Oncology	0
+VINORELBINE	UCEC	Oncology	0
+PACLITAXEL	UCEC	Oncology	0
+CYCLOPHOSPHAMIDE	UCEC	Oncology | Nephrology/Urology	0
+DOCETAXEL	UCEC	Oncology	0
+BEVACIZUMAB	UCEC	Oncology	0
+GEMCITABINE	UCEC	Oncology	0
+PEMETREXED	UCEC	Oncology	0
+L-ASCORBIC ACID	UCEC	Nutraceutical	0
+LITHIUM	UCEC	Psychiatry/Psychology	0
+CELECOXIB	UCEC	Pain management	0
+DASATINIB	UCEC	Oncology	0
+REGORAFENIB	UCEC	Oncology	0
+VANDETANIB	UCEC	Oncology	0
+DOXORUBICIN	UCEC	Oncology	0
+BROMOCRIPTINE	UCEC	Endocrinology | Neurology	0
+RISPERIDONE	UCEC	Psychiatry/Psychology	0
+INDOMETHACIN	UCEC	Pain management | Musculoskeletal	0
+PALIFERMIN	UCEC	Dental/Maxillofacial surgery	0
+CYCLOSPORIN A	UCEC	Immunology/Infectious disease | Ophthalmology	0
+CETUXIMAB	UCEC	Oncology	0
+TRASTUZUMAB	UCEC	Oncology	0
+RITUXIMAB	UCEC	Oncology	0
+HALOPERIDOL	UCEC	Psychiatry/Psychology	0
+PROGESTERONE	UCEC	Endocrinology | Obstetrics/Gynecology	0
+NINTEDANIB	UCEC	Pulmonary/Respiratory disease	0
+PONATINIB	UCEC	Oncology	0
+ACALABRUTINIB	UCEC	Oncology	0
+IBRUTINIB	UCEC	Oncology	0
+VORINOSTAT	UCEC	Oncology	0
+BELINOSTAT	UCEC	Oncology	0
+PANOBINOSTAT	UCEC	Oncology	0
+ROMIDEPSIN	UCEC	Oncology	0
+VALPROIC ACID	UCEC	Neurology | Psychiatry/Psychology	0
+IXAZOMIB CITRATE	UCEC	Oncology	1
+BORTEZOMIB	UCEC	Oncology	0
+FILGRASTIM	UCEC	Hematology | Oncology	0
+ROSIGLITAZONE	UCEC	Endocrinology	0
+ERLOTINIB HYDROCHLORIDE	UCEC	Oncology	0
+ISOPROTERENOL	UCEC	Pulmonary/Respiratory disease	0
+ACETAMINOPHEN	UCEC	Pain management	0
+THALIDOMIDE	UCEC	Dermatology/Plastic surgery | Oncology	0
+PROPYLTHIOURACIL	UCEC	Endocrinology	0
+ARSENIC TRIOXIDE	UCEC	Oncology	0
+DEXAMETHASONE	UCEC	Ophthalmology	0
+MITOMYCIN C	UCEC	Oncology	0
+CAPECITABINE	UCEC	Oncology	0
+CHLORAMBUCIL	UCEC	Oncology	0
+RIBOCICLIB	UCEC	Oncology	0
+TRAMETINIB	UCEC	Oncology	0
+COBIMETINIB	UCEC	Oncology	0
+ATEZOLIZUMAB	UCEC	Oncology	0
+PANITUMUMAB	UCEC	Oncology	0
+SORAFENIB	UCEC	Oncology	0
+VEMURAFENIB	UCEC	Oncology	0
+LENVATINIB	UCEC	Oncology	0
+PALBOCICLIB	UCEC	Oncology	0
+AZD-9291	UCEC	Oncology	0
+GEFITINIB	UCEC	Oncology	0
+DABRAFENIB	UCEC	Oncology	0
+AFATINIB	UCEC	Oncology	0
+ABEMACICLIB	UCEC	Oncology	0
+RALOXIFENE	UCEC	Musculoskeletal | Oncology	0
+TARENFLURBIL	UCEC	Pain management | Musculoskeletal	0
+ABT-199	UCEC	Oncology	0
+HYDROCORTISONE	UCEC	Dermatology/Plastic surgery	0
+SIMVASTATIN	UCEC	Hematology	0
+METHIMAZOLE	UCEC	Endocrinology	0
+PREDNISOLONE	UCEC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	UCEC	Oncology	0
+EXEMESTANE	UCEC	Oncology	0
+IMATINIB	UCEC	Oncology	0
+CRIZOTINIB	UCEC	Oncology	0
+DEHYDROEPIANDROSTERONE	UCEC	Obstetrics/Gynecology	0
+NILOTINIB	UCEC	Oncology	0
+ERLOTINIB	UCEC	Oncology	0
+NIFEDIPINE	UCEC	Cardiology/Vascular disease	0
+URSODEOXYCHOLIC ACID	UCEC	Gastroenterology	0
+LENALIDOMIDE	UCEC	Oncology	0
+SULINDAC	UCEC	Pain management | Musculoskeletal	0
+DECITABINE	UCEC	Hematology	0
+OLAPARIB	UCEC	Oncology	0
+RUCAPARIB	UCEC	Oncology	0
+NIRAPARIB	UCEC	Oncology	0
+ENALAPRIL	UCEC	Cardiology/Vascular disease	0
+QUINAPRIL	UCEC	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	UCEC	Oncology	0
+CLOFARABINE	UCEC	Oncology	1
+FLUDARABINE	UCEC	Oncology	0
+GEMCITABINE HYDROCHLORIDE	UCEC	Oncology	0
+NETARSUDIL	UCEC	Ophthalmology	0
+ETOPOSIDE	UCEC	Oncology	0
+ERISMODEGIB	UCEC	Oncology	0
+DINUTUXIMAB	UCEC	Oncology	0
+VITAMIN E	UCEC	Nutraceutical	0
+TRIFLUOPERAZINE	UCEC	Psychiatry/Psychology	0
+DAUNORUBICIN	UCEC	Oncology	0
+IDARUBICIN	UCEC	Oncology	0
+TOPOTECAN	UCEC	Oncology	0
+NIVOLUMAB	UCEC	Oncology	0
+ANASTROZOLE	UCEC	Oncology	0
+LETROZOLE	UCEC	Oncology	0
+IPILIMUMAB	UCEC	Oncology	0
+TEMOZOLOMIDE	UCEC	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	UCEC	Oncology	0
+IXABEPILONE	UCEC	Oncology	0
+INSULIN HUMAN	UCEC	Endocrinology	0
+CAPSAICIN	UCEC	Immunology/Infectious disease | Neurology | Pain management	0
+FLUTAMIDE	UCEC	Oncology	0
+FULVESTRANT	UCEC	Oncology	0
+CABOZANTINIB	UCEC	Oncology	0
+AFATINIB DIMALEATE	UCEC	Oncology	0
+AZD-9291 MESYLATE	UCEC	Oncology	0
+LAPATINIB	UCEC	Oncology	0
+PRAMLINTIDE	UCEC	Endocrinology	0
+SUNITINIB	UCEC	Oncology	0
+EPIRUBICIN	UCEC	Oncology	0
+UREA	UCEC	Dermatology/Plastic surgery	0
+METHYLPREDNISOLONE	UCEC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+IFOSFAMIDE	UCEC	Oncology	0
+MILTEFOSINE	UCEC	Immunology/Infectious disease	0
+NERATINIB	UCEC	Oncology	0
+FLOXURIDINE	UCEC	Oncology	0
+PERTUZUMAB	UCEC	Oncology	0
+GANCICLOVIR	UCEC	Immunology/Infectious disease	0
+NINTEDANIB ESYLATE	UCEC	Pulmonary/Respiratory disease	0
+RAMUCIRUMAB	UCEC	Oncology	0
+ITRACONAZOLE	UCEC	Immunology/Infectious disease	0
+PENTOSAN POLYSULFATE	UCEC	Nephrology/Urology	0
+NELFINAVIR	UCEC	Immunology/Infectious disease	0
+NECITUMUMAB	UCEC	Oncology	0
+LAPATINIB DITOSYLATE	UCEC	Oncology	0
+THIOTEPA	UCEC	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	UCEC	Dermatology/Plastic surgery	1
+PONATINIB HYDROCHLORIDE	UCEC	Oncology	1
+ASPARAGINASE	UCEC	Oncology	0
+ENZALUTAMIDE	UCEC	Oncology	0
+ABIRATERONE	UCEC	Oncology	0
+TRABECTEDIN	UCEC	Oncology	0
+TRIHEXYPHENIDYL	UCEC	Neurology	0
+CYCLOPENTOLATE	UCEC	Ophthalmology	0
+TROSPIUM	UCEC	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	UCEC	Neurology	0
+MECASERMIN	UCEC	Endocrinology	1
+ZINC CHLORIDE	UCEC	Nutraceutical	0
+TRIFLURIDINE	UCEC	Immunology/Infectious disease | Ophthalmology	0
+PEGADEMASE BOVINE	UCEC	Immunology/Infectious disease	0
+EDARAVONE	UCEC	Musculoskeletal	1
+DIMETHYL FUMARATE	UCEC	Neurology	1
+LOVASTATIN ACID	UCEC	Cardiology/Vascular disease	0
+IRINOTECAN	UCS	Oncology	0
+MIDOSTAURIN	UCS	Oncology	0
+CARBOPLATIN	UCS	Oncology	0
+RETINOIC ACID	UCS	Dermatology/Plastic surgery | Oncology	0
+VINCRISTINE	UCS	Oncology	0
+CYTARABINE	UCS	Oncology	0
+STREPTOZOCIN	UCS	Oncology	0
+IDELALISIB	UCS	Oncology	0
+COPANLISIB	UCS	Oncology	0
+RAPAMYCIN	UCS	Immunology/Infectious disease | Nephrology/Urology	0
+EVEROLIMUS	UCS	Immunology/Infectious disease | Nephrology/Urology | Oncology	0
+TEMSIROLIMUS	UCS	Oncology	0
+METFORMIN	UCS	Endocrinology	0
+PAZOPANIB	UCS	Oncology	0
+5-FLUOROURACIL	UCS	Oncology | Dermatology/Plastic surgery	0
+6-MERCAPTOPURINE	UCS	Oncology	0
+OXALIPLATIN	UCS	Oncology	0
+PACLITAXEL	UCS	Oncology	0
+CYCLOPHOSPHAMIDE	UCS	Oncology | Nephrology/Urology	0
+DOCETAXEL	UCS	Oncology	0
+BEVACIZUMAB	UCS	Oncology	0
+GEMCITABINE	UCS	Oncology	0
+PEMETREXED	UCS	Oncology	0
+DASATINIB	UCS	Oncology	0
+REGORAFENIB	UCS	Oncology	0
+VANDETANIB	UCS	Oncology	0
+DOXORUBICIN	UCS	Oncology	0
+CETUXIMAB	UCS	Oncology	0
+TRASTUZUMAB	UCS	Oncology	0
+RITUXIMAB	UCS	Oncology	0
+HALOPERIDOL	UCS	Psychiatry/Psychology	0
+PROGESTERONE	UCS	Endocrinology | Obstetrics/Gynecology	0
+PONATINIB	UCS	Oncology	0
+IBRUTINIB	UCS	Oncology	0
+VORINOSTAT	UCS	Oncology	0
+BELINOSTAT	UCS	Oncology	0
+PANOBINOSTAT	UCS	Oncology	0
+ROMIDEPSIN	UCS	Oncology	0
+SODIUM 4-PHENYLBUTYRATE	UCS	Hematology	0
+BORTEZOMIB	UCS	Oncology	0
+ERLOTINIB HYDROCHLORIDE	UCS	Oncology	0
+ISOPROTERENOL	UCS	Pulmonary/Respiratory disease	0
+PROPYLTHIOURACIL	UCS	Endocrinology	0
+DEXAMETHASONE	UCS	Ophthalmology	0
+MITOMYCIN C	UCS	Oncology	0
+CAPECITABINE	UCS	Oncology	0
+RIBOCICLIB	UCS	Oncology	0
+TRAMETINIB	UCS	Oncology	0
+COBIMETINIB	UCS	Oncology	0
+ATEZOLIZUMAB	UCS	Oncology	0
+PANITUMUMAB	UCS	Oncology	0
+SORAFENIB	UCS	Oncology	0
+VEMURAFENIB	UCS	Oncology	0
+PALBOCICLIB	UCS	Oncology	0
+AZD-9291	UCS	Oncology	0
+GEFITINIB	UCS	Oncology	0
+DABRAFENIB	UCS	Oncology	0
+AFATINIB	UCS	Oncology	0
+ABEMACICLIB	UCS	Oncology	0
+RALOXIFENE	UCS	Musculoskeletal | Oncology	0
+TARENFLURBIL	UCS	Pain management | Musculoskeletal	0
+ABT-199	UCS	Oncology	0
+METHIMAZOLE	UCS	Endocrinology	0
+PREDNISOLONE	UCS	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+TAMOXIFEN	UCS	Oncology	0
+IMATINIB	UCS	Oncology	0
+CRIZOTINIB	UCS	Oncology	0
+DEHYDROEPIANDROSTERONE	UCS	Obstetrics/Gynecology	0
+NILOTINIB	UCS	Oncology	0
+ERLOTINIB	UCS	Oncology	0
+URSODEOXYCHOLIC ACID	UCS	Gastroenterology	0
+LENALIDOMIDE	UCS	Oncology	0
+SULINDAC	UCS	Pain management | Musculoskeletal	0
+DECITABINE	UCS	Hematology	0
+OLAPARIB	UCS	Oncology	0
+RUCAPARIB	UCS	Oncology	0
+NIRAPARIB	UCS	Oncology	0
+ENALAPRIL	UCS	Cardiology/Vascular disease	0
+QUINAPRIL	UCS	Cardiology/Vascular disease	0
+FLUDARABINE PHOSPHATE	UCS	Oncology	0
+CLADRIBINE	UCS	Oncology	0
+CLOFARABINE	UCS	Oncology	0
+GEMCITABINE HYDROCHLORIDE	UCS	Oncology	0
+ETOPOSIDE	UCS	Oncology	0
+TRIFLUOPERAZINE	UCS	Psychiatry/Psychology	0
+DAUNORUBICIN	UCS	Oncology	0
+CERITINIB	UCS	Oncology	1
+BRIGATINIB	UCS	Oncology	0
+TOPOTECAN	UCS	Oncology	0
+DURVALUMAB	UCS	Oncology	0
+NIVOLUMAB	UCS	Oncology	0
+LETROZOLE	UCS	Oncology	0
+TEMOZOLOMIDE	UCS	Oncology	0
+ADO-TRASTUZUMAB EMTANSINE	UCS	Oncology	0
+IXABEPILONE	UCS	Oncology	0
+INSULIN HUMAN	UCS	Endocrinology	0
+CAPSAICIN	UCS	Immunology/Infectious disease | Neurology | Pain management	0
+FULVESTRANT	UCS	Oncology	0
+CABOZANTINIB	UCS	Oncology	0
+AFATINIB DIMALEATE	UCS	Oncology	0
+AZD-9291 MESYLATE	UCS	Oncology	0
+LAPATINIB	UCS	Oncology	0
+PRAMLINTIDE	UCS	Endocrinology	0
+SUNITINIB	UCS	Oncology	0
+EPIRUBICIN	UCS	Oncology	0
+METHYLPREDNISOLONE	UCS	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+RIFABUTIN	UCS	Immunology/Infectious disease	0
+IFOSFAMIDE	UCS	Oncology	0
+MILTEFOSINE	UCS	Immunology/Infectious disease	0
+NERATINIB	UCS	Oncology	0
+FLOXURIDINE	UCS	Oncology	0
+PERTUZUMAB	UCS	Oncology	0
+PRALATREXATE	UCS	Oncology	0
+RAMUCIRUMAB	UCS	Oncology	0
+ITRACONAZOLE	UCS	Immunology/Infectious disease	0
+PEMETREXED DISODIUM	UCS	Oncology	0
+PIRFENIDONE	UCS	Pulmonary/Respiratory disease	0
+PEGAPTANIB	UCS	Ophthalmology	1
+6-AMINOHEXANOIC ACID	UCS	Hematology	0
+DEFIBROTIDE SODIUM	UCS	Gastroenterology	0
+NECITUMUMAB	UCS	Oncology	0
+LAPATINIB DITOSYLATE	UCS	Oncology	0
+VISMODEGIB	UCS	Oncology	0
+DABRAFENIB MESYLATE	UCS	Oncology	0
+THIOTEPA	UCS	Immunology/Infectious disease | Oncology	0
+5-AMINOLEVULINIC ACID	UCS	Dermatology/Plastic surgery	0
+ASPARAGINASE	UCS	Oncology	0
+ENZALUTAMIDE	UCS	Oncology	0
+ABIRATERONE	UCS	Oncology	0
+TRABECTEDIN	UCS	Oncology	0
+TRIHEXYPHENIDYL	UCS	Neurology	0
+CYCLOPENTOLATE	UCS	Ophthalmology	0
+TROSPIUM	UCS	Nephrology/Urology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	UCS	Neurology	0
+INSULIN GLARGINE	UCS	Endocrinology	1
+MECASERMIN	UCS	Endocrinology	1
+ATOVAQUONE	UCS	Immunology/Infectious disease	0
+ZINC CHLORIDE	UCS	Nutraceutical	0
+TRIFLURIDINE	UCS	Immunology/Infectious disease | Ophthalmology	0
+EDARAVONE	UCS	Musculoskeletal	0
+DIMETHYL FUMARATE	UCS	Neurology	0
+LOVASTATIN ACID	UCS	Cardiology/Vascular disease	0
