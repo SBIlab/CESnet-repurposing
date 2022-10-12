@@ -21,7 +21,7 @@ for(i in tcga_list){
     GDCdownload(query)
     data <- GDCprepare(query)
     eset <- assay(data)
-    write.csv(eset, file = paste0('E:/docu/master/Documents/TCGAbiolinks/GDCdata/',i,'/rna_seq_table.csv'))
+    write.csv(eset, file = paste0('../../data/TCGA_patient/',i,'/rna_seq_table.csv'))
   }
   
   ## patient information ##
@@ -33,7 +33,7 @@ for(i in tcga_list){
     GDCdownload(query)
     data <- GDCprepare(query)
     eset <- data[[paste0('clinical_patient_',tolower(strsplit(i,'-')[[1]][2]))]]
-    write.csv(eset, file = paste0('E:/docu/master/Documents/TCGAbiolinks/GDCdata/',i,'/clinical_patient_table.csv'))
+    write.csv(eset, file = paste0('../../data/TCGA_patient/',i,'/clinical_patient_table.csv'))
   }
   
 }
