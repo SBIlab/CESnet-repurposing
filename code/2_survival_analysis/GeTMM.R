@@ -25,7 +25,7 @@ gene_length = read.table('biomart_ensembl_max_exon_length_in_kilo_bp.txt', heade
 ## GeTMM normalization for each cancer types
 for (cancer in tcga_list){
   # set output directory
-  tmp_fo_dir = paste0(fi_dir, '/GDCdata/', cancer)
+  tmp_fo_dir = paste0(fi_dir, cancer)
   setwd(tmp_fo_dir)
   
   print(paste0('testing ', cancer))
