@@ -15,7 +15,7 @@ tcga_list = c('TCGA-BRCA','TCGA-GBM','TCGA-OV','TCGA-LUAD','TCGA-UCEC','TCGA-KIR
               'TCGA-SARC','TCGA-LAML','TCGA-ESCA','TCGA-PAAD','TCGA-PCPG','TCGA-READ',
               'TCGA-TGCT','TCGA-THYM','TCGA-KICH','TCGA-ACC','TCGA-MESO','TCGA-UVM',
               'TCGA-DLBC','TCGA-UCS','TCGA-CHOL')
-fi_dir = '../data/TCGA'
+fi_dir = 'D:/research_result/cGAN/data/TCGAbiolinks'
 setwd(fi_dir)
 
 ## Import max gene length in kb
