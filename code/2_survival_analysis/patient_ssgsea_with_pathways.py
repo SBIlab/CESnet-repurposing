@@ -10,7 +10,7 @@ for gs in GENESET:
     TYPE = os.listdir(PATH)
     TYPE.remove("Reactome")
     print(TYPE)
-    try: os.mkdir("../data/TCGA/" + gs)
+    try: os.mkdir("../data/" + gs)
     except: pass
     for ty in TYPE:
         print(ty[5:])
