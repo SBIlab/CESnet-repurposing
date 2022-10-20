@@ -34,6 +34,6 @@ for net in network:
     re = re.sort_index()
     try: os.mkdir(out_PATH + net)
     except: pass
-    re.to_csv(out_PATH + net +"/"+"drug_target_gsea_d_para.csv")
+    re.to_csv(out_PATH + net +"/"+"drug_target_gsea.csv")
         
         
