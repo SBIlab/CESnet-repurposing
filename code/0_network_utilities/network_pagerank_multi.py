@@ -45,7 +45,7 @@ print file_list
 
 for fk in range(len(file_list)):
     print fk
-    net = file_list[len(file_list)-fk-1]
+    net = file_list[fk][:-4]
     print net[:-4]
     with open(PATH + net, "rb") as f:
         f.readline()
