@@ -18,7 +18,6 @@ for net in network:
     par.index = par.index.astype(str)
     re = []
     ttar = list(set(par.columns) & set(df.index))
-    #ttar = ["BRCA"]
     for ty in ttar:
         print(ty)
         tpar = par[ty].sort_values(ascending=False)
