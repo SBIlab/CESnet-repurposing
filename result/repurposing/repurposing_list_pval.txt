@@ -1,0 +1,733 @@
+drug	repurpose	origin	min_check
+PROPYLTHIOURACIL	BLCA	Endocrinology	0
+L-ASCORBIC ACID	BLCA	Nutraceutical	0
+PIOGLITAZONE HYDROCHLORIDE	BLCA	Endocrinology	0
+INDOMETHACIN	BLCA	Pain management | Musculoskeletal	0
+METHYLPREDNISOLONE	BLCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	BLCA	Cardiology/Vascular disease	0
+CELECOXIB	BLCA	Pain management	0
+NINTEDANIB	BLCA	Pulmonary/Respiratory disease	0
+ACITRETIN	BLCA	Dermatology/Plastic surgery	0
+NINTEDANIB ESYLATE	BLCA	Pulmonary/Respiratory disease	0
+BROMOCRIPTINE	BLCA	Endocrinology | Neurology	0
+DIMETHYL FUMARATE	BLCA	Neurology	0
+CAPSAICIN	BLCA	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	BLCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	BLCA	Dermatology/Plastic surgery	0
+ROSIGLITAZONE MALEATE	BLCA	Endocrinology	0
+SULINDAC	BLCA	Pain management | Musculoskeletal	0
+DIMETHYL SULFOXIDE	BLCA	Pain management | Nephrology/Urology	0
+NITROGLYCERIN	BLCA	Cardiology/Vascular disease | Gastroenterology	0
+ZINC CHLORIDE	BLCA	Nutraceutical	0
+METFORMIN	BLCA	Endocrinology	0
+URSODEOXYCHOLIC ACID	BLCA	Gastroenterology	0
+NICOTINE	BLCA	Psychiatry/Psychology	0
+METHIMAZOLE	BLCA	Endocrinology	0
+ATOVAQUONE	BLCA	Immunology/Infectious disease	0
+MILTEFOSINE	BLCA	Immunology/Infectious disease	0
+INSULIN HUMAN	BLCA	Endocrinology	0
+DECITABINE	BLCA	Hematology	0
+ACETAMINOPHEN	BLCA	Pain management	0
+BALSALAZIDE	BLCA	Gastroenterology	0
+GANCICLOVIR	BLCA	Immunology/Infectious disease	0
+VITAMIN E	BLCA	Nutraceutical	0
+TRIFLURIDINE	BLCA	Immunology/Infectious disease | Ophthalmology	0
+UREA	BLCA	Dermatology/Plastic surgery	0
+TRIFLUOPERAZINE	BLCA	Psychiatry/Psychology	0
+ROSIGLITAZONE	BLCA	Endocrinology	0
+HALOPERIDOL	BLCA	Psychiatry/Psychology	0
+ADAPALENE	BLCA	Dermatology/Plastic surgery	0
+DEHYDROEPIANDROSTERONE	BLCA	Obstetrics/Gynecology	0
+TARENFLURBIL	BLCA	Pain management | Musculoskeletal	0
+OLSALAZINE SODIUM	BLCA	Gastroenterology	0
+PRAMLINTIDE	BLCA	Endocrinology	0
+VALPROIC ACID	BLCA	Neurology | Psychiatry/Psychology	0
+DEXAMETHASONE	BLCA	Ophthalmology	0
+RAPAMYCIN	BLCA	Immunology/Infectious disease | Nephrology/Urology	0
+ETODOLAC	BLCA	Pain management	0
+TELMISARTAN	BLCA	Cardiology/Vascular disease	0
+SIMVASTATIN	BLCA	Hematology	0
+LITHIUM	BLCA	Psychiatry/Psychology	0
+TERIFLUNOMIDE	BLCA	Neurology	0
+SODIUM 4-PHENYLBUTYRATE	BLCA	Hematology	0
+PROPYLTHIOURACIL	BRCA	Endocrinology	0
+QUINAPRIL	BRCA	Cardiology/Vascular disease	0
+NELFINAVIR	BRCA	Immunology/Infectious disease	0
+METHYLPREDNISOLONE	BRCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	BRCA	Cardiology/Vascular disease	0
+CELECOXIB	BRCA	Pain management	0
+DIMETHYL FUMARATE	BRCA	Neurology	0
+CAPSAICIN	BRCA	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	BRCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	BRCA	Dermatology/Plastic surgery	0
+SULINDAC	BRCA	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	BRCA	Nutraceutical	0
+METFORMIN	BRCA	Endocrinology	0
+URSODEOXYCHOLIC ACID	BRCA	Gastroenterology	0
+METHIMAZOLE	BRCA	Endocrinology	0
+MILTEFOSINE	BRCA	Immunology/Infectious disease	0
+INSULIN HUMAN	BRCA	Endocrinology	0
+DECITABINE	BRCA	Hematology	0
+LOVASTATIN ACID	BRCA	Cardiology/Vascular disease	0
+GANCICLOVIR	BRCA	Immunology/Infectious disease	0
+VITAMIN E	BRCA	Nutraceutical	0
+PROGESTERONE	BRCA	Endocrinology | Obstetrics/Gynecology	0
+ISOPROTERENOL	BRCA	Pulmonary/Respiratory disease	0
+TRIFLURIDINE	BRCA	Immunology/Infectious disease | Ophthalmology	0
+TRIFLUOPERAZINE	BRCA	Psychiatry/Psychology	0
+INSULIN GLARGINE	BRCA	Endocrinology	0
+HALOPERIDOL	BRCA	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	BRCA	Obstetrics/Gynecology	0
+TARENFLURBIL	BRCA	Pain management | Musculoskeletal	0
+PRAMLINTIDE	BRCA	Endocrinology	0
+DEXAMETHASONE	BRCA	Ophthalmology	0
+RAPAMYCIN	BRCA	Immunology/Infectious disease | Nephrology/Urology	0
+RISPERIDONE	BRCA	Psychiatry/Psychology	0
+METHACHOLINE CHLORIDE	BRCA	Diagnostic agent	0
+PROPYLTHIOURACIL	CESC	Endocrinology	0
+L-ASCORBIC ACID	CESC	Nutraceutical	0
+PIOGLITAZONE HYDROCHLORIDE	CESC	Endocrinology	0
+QUINAPRIL	CESC	Cardiology/Vascular disease	0
+INDOMETHACIN	CESC	Pain management | Musculoskeletal	0
+NELFINAVIR	CESC	Immunology/Infectious disease	0
+METHYLPREDNISOLONE	CESC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ABACAVIR	CESC	Immunology/Infectious disease	0
+ENALAPRIL	CESC	Cardiology/Vascular disease	0
+BROMOCRIPTINE	CESC	Endocrinology | Neurology	0
+DIMETHYL FUMARATE	CESC	Neurology	0
+CAPSAICIN	CESC	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	CESC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	CESC	Dermatology/Plastic surgery	0
+ROSIGLITAZONE MALEATE	CESC	Endocrinology	0
+SULINDAC	CESC	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	CESC	Nutraceutical	0
+METFORMIN	CESC	Endocrinology	0
+URSODEOXYCHOLIC ACID	CESC	Gastroenterology	0
+METHIMAZOLE	CESC	Endocrinology	0
+MILTEFOSINE	CESC	Immunology/Infectious disease	0
+INSULIN HUMAN	CESC	Endocrinology	0
+DECITABINE	CESC	Hematology	0
+OXCARBAZEPINE	CESC	Neurology	0
+LOVASTATIN ACID	CESC	Cardiology/Vascular disease	0
+GANCICLOVIR	CESC	Immunology/Infectious disease	0
+VITAMIN E	CESC	Nutraceutical	0
+PROGESTERONE	CESC	Endocrinology | Obstetrics/Gynecology	0
+ISOPROTERENOL	CESC	Pulmonary/Respiratory disease	0
+TRIFLURIDINE	CESC	Immunology/Infectious disease | Ophthalmology	0
+CARBAMAZEPINE	CESC	Neurology | Psychiatry/Psychology	0
+BUMETANIDE	CESC	Cardiology/Vascular disease	0
+TRIFLUOPERAZINE	CESC	Psychiatry/Psychology	0
+ROSIGLITAZONE	CESC	Endocrinology	0
+INSULIN GLARGINE	CESC	Endocrinology	0
+HALOPERIDOL	CESC	Psychiatry/Psychology	0
+LEVODOPA	CESC	Neurology	0
+DEHYDROEPIANDROSTERONE	CESC	Obstetrics/Gynecology	0
+TARENFLURBIL	CESC	Pain management | Musculoskeletal	0
+PRAMLINTIDE	CESC	Endocrinology	0
+FINASTERIDE	CESC	Nephrology/Urology | Endocrinology	0
+GLYCEROL	CESC	Gastroenterology	0
+DEXAMETHASONE	CESC	Ophthalmology	0
+RAPAMYCIN	CESC	Immunology/Infectious disease | Nephrology/Urology	0
+TELMISARTAN	CESC	Cardiology/Vascular disease	0
+SIMVASTATIN	CESC	Hematology	0
+LITHIUM	CESC	Psychiatry/Psychology	0
+ETHANOL	CESC	Neurology	0
+RISPERIDONE	CESC	Psychiatry/Psychology	0
+PHENYTOIN	CESC	Neurology	0
+PROPYLTHIOURACIL	COADREAD	Endocrinology	0
+PIOGLITAZONE HYDROCHLORIDE	COADREAD	Endocrinology	0
+METHYLPREDNISOLONE	COADREAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	COADREAD	Cardiology/Vascular disease	0
+CELECOXIB	COADREAD	Pain management	0
+IBUPROFEN	COADREAD	Pain management	0
+DIMETHYL FUMARATE	COADREAD	Neurology	0
+CAPSAICIN	COADREAD	Immunology/Infectious disease | Neurology | Pain management	0
+LIOTHYRONINE	COADREAD	Endocrinology	0
+HYDROCORTISONE	COADREAD	Dermatology/Plastic surgery	0
+ROSIGLITAZONE MALEATE	COADREAD	Endocrinology	0
+SULINDAC	COADREAD	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	COADREAD	Nutraceutical	0
+METFORMIN	COADREAD	Endocrinology	0
+URSODEOXYCHOLIC ACID	COADREAD	Gastroenterology	0
+METHIMAZOLE	COADREAD	Endocrinology	0
+MILTEFOSINE	COADREAD	Immunology/Infectious disease	0
+DECITABINE	COADREAD	Hematology	0
+REPAGLINIDE	COADREAD	Endocrinology	0
+LOVASTATIN ACID	COADREAD	Cardiology/Vascular disease	0
+EFLORNITHINE	COADREAD	Dermatology/Plastic surgery	0
+L-GLUTAMINE	COADREAD	Nutraceutical	0
+PROGESTERONE	COADREAD	Endocrinology | Obstetrics/Gynecology	0
+TRIFLURIDINE	COADREAD	Immunology/Infectious disease | Ophthalmology	0
+UREA	COADREAD	Dermatology/Plastic surgery	0
+BUMETANIDE	COADREAD	Cardiology/Vascular disease	0
+TRIFLUOPERAZINE	COADREAD	Psychiatry/Psychology	0
+ROSIGLITAZONE	COADREAD	Endocrinology	0
+INSULIN GLARGINE	COADREAD	Endocrinology	0
+HALOPERIDOL	COADREAD	Psychiatry/Psychology	0
+LEVODOPA	COADREAD	Neurology	0
+DEHYDROEPIANDROSTERONE	COADREAD	Obstetrics/Gynecology	0
+TARENFLURBIL	COADREAD	Pain management | Musculoskeletal	0
+PRAMLINTIDE	COADREAD	Endocrinology	0
+RAPAMYCIN	COADREAD	Immunology/Infectious disease | Nephrology/Urology	0
+TELMISARTAN	COADREAD	Cardiology/Vascular disease	0
+PROPYLTHIOURACIL	ESCA	Endocrinology	0
+L-ASCORBIC ACID	ESCA	Nutraceutical	0
+PIOGLITAZONE HYDROCHLORIDE	ESCA	Endocrinology	0
+QUINAPRIL	ESCA	Cardiology/Vascular disease	0
+INDOMETHACIN	ESCA	Pain management | Musculoskeletal	0
+METHYLPREDNISOLONE	ESCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	ESCA	Cardiology/Vascular disease	0
+TRIHEXYPHENIDYL	ESCA	Neurology	0
+CYCLOPENTOLATE	ESCA	Ophthalmology	0
+BROMOCRIPTINE	ESCA	Endocrinology | Neurology	0
+DIMETHYL FUMARATE	ESCA	Neurology	0
+CAPSAICIN	ESCA	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	ESCA	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+FLAVOXATE	ESCA	Nephrology/Urology	0
+WARFARIN SODIUM	ESCA	Hematology	0
+HYDROCORTISONE	ESCA	Dermatology/Plastic surgery	0
+ROSIGLITAZONE MALEATE	ESCA	Endocrinology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	ESCA	Neurology	0
+SULINDAC	ESCA	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	ESCA	Nutraceutical	0
+METFORMIN	ESCA	Endocrinology	0
+URSODEOXYCHOLIC ACID	ESCA	Gastroenterology	0
+METHIMAZOLE	ESCA	Endocrinology	0
+MILTEFOSINE	ESCA	Immunology/Infectious disease	0
+ALUMINUM	ESCA	Gastroenterology	0
+POTASSIUM	ESCA	Hematology | Nephrology/Urology	0
+DECITABINE	ESCA	Hematology	0
+LOVASTATIN ACID	ESCA	Cardiology/Vascular disease	0
+L-GLUTAMINE	ESCA	Nutraceutical	0
+GANCICLOVIR	ESCA	Immunology/Infectious disease	0
+VITAMIN E	ESCA	Nutraceutical	0
+TRIFLURIDINE	ESCA	Immunology/Infectious disease | Ophthalmology	0
+CICLOPIROX	ESCA	Immunology/Infectious disease	0
+LUMEFANTRINE	ESCA	Immunology/Infectious disease	0
+TRIFLUOPERAZINE	ESCA	Psychiatry/Psychology	0
+ROSIGLITAZONE	ESCA	Endocrinology	0
+HALOPERIDOL	ESCA	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	ESCA	Obstetrics/Gynecology	0
+TARENFLURBIL	ESCA	Pain management | Musculoskeletal	0
+PRAMLINTIDE	ESCA	Endocrinology	0
+MAGNESIUM	ESCA	Nutraceutical	0
+DEXAMETHASONE	ESCA	Ophthalmology	0
+RAPAMYCIN	ESCA	Immunology/Infectious disease | Nephrology/Urology	0
+SIMVASTATIN	ESCA	Hematology	0
+LITHIUM	ESCA	Psychiatry/Psychology	0
+ETHANOL	ESCA	Neurology	0
+PROPYLTHIOURACIL	GBM	Endocrinology	0
+PIOGLITAZONE HYDROCHLORIDE	GBM	Endocrinology	0
+CLOPOXIDE CHLORIDE	GBM	Psychiatry/Psychology	0
+BUTALBITAL	GBM	Pain management	0
+FLURAZEPAM	GBM	Neurology	0
+SECOBARBITAL	GBM	Neurology	0
+METHYLPREDNISOLONE	GBM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	GBM	Cardiology/Vascular disease	0
+NINTEDANIB	GBM	Pulmonary/Respiratory disease	0
+CLORAZEPATE	GBM	Neurology | Psychiatry/Psychology	0
+PROPOFOL	GBM	Pain management	0
+TOPIRAMATE	GBM	Neurology	0
+DIAZEPAM	GBM	Neurology | Psychiatry/Psychology	0
+NINTEDANIB ESYLATE	GBM	Pulmonary/Respiratory disease	0
+DIMETHYL FUMARATE	GBM	Neurology	0
+PREDNISOLONE	GBM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+PENTOBARBITAL	GBM	Neurology | Psychiatry/Psychology	0
+SECOBARBITAL SODIUM	GBM	Neurology	0
+ROSIGLITAZONE MALEATE	GBM	Endocrinology	0
+MIDAZOLAM HYDROCHLORIDE	GBM	Pain management	0
+SULINDAC	GBM	Pain management | Musculoskeletal	0
+NITROGLYCERIN	GBM	Cardiology/Vascular disease | Gastroenterology	0
+FLURAZEPAM DIHYDROCHLORIDE	GBM	Neurology	0
+ACAMPROSATE CALCIUM	GBM	Psychiatry/Psychology	0
+ZINC CHLORIDE	GBM	Nutraceutical	0
+METFORMIN	GBM	Endocrinology	0
+URSODEOXYCHOLIC ACID	GBM	Gastroenterology	0
+TEMAZEPAM	GBM	Neurology	0
+METHIMAZOLE	GBM	Endocrinology	0
+MILTEFOSINE	GBM	Immunology/Infectious disease	0
+GATIFLOXACIN	GBM	Ophthalmology | Immunology/Infectious disease	0
+ESTAZOLAM	GBM	Neurology	0
+ESZOPICLONE	GBM	Neurology	0
+INSULIN HUMAN	GBM	Endocrinology	0
+DECITABINE	GBM	Hematology	0
+PIRFENIDONE	GBM	Pulmonary/Respiratory disease	0
+FLUMAZENIL	GBM	Pharmacology/Toxicology	0
+LOVASTATIN ACID	GBM	Cardiology/Vascular disease	0
+GANCICLOVIR	GBM	Immunology/Infectious disease	0
+PROGESTERONE	GBM	Endocrinology | Obstetrics/Gynecology	0
+ISOPROTERENOL	GBM	Pulmonary/Respiratory disease	0
+TRIFLURIDINE	GBM	Immunology/Infectious disease | Ophthalmology	0
+BUMETANIDE	GBM	Cardiology/Vascular disease	0
+TRIFLUOPERAZINE	GBM	Psychiatry/Psychology	0
+HALOPERIDOL	GBM	Psychiatry/Psychology	0
+SEVOFLURANE	GBM	Pain management	0
+DESFLURANE	GBM	Pain management	0
+DEHYDROEPIANDROSTERONE	GBM	Obstetrics/Gynecology	0
+TARENFLURBIL	GBM	Pain management | Musculoskeletal	0
+PRAMLINTIDE	GBM	Endocrinology	0
+TRIAZOLAM	GBM	Neurology	0
+MIDAZOLAM	GBM	Pain management	0
+PENTOBARBITAL SODIUM	GBM	Neurology | Psychiatry/Psychology	0
+DEXAMETHASONE	GBM	Ophthalmology	0
+RAPAMYCIN	GBM	Immunology/Infectious disease | Nephrology/Urology	0
+PRIMIDONE	GBM	Neurology	0
+MEPROBAMATE	GBM	Psychiatry/Psychology	0
+CLOBAZAM	GBM	Neurology	0
+LIDOCAINE	GBM	Pain management	0
+ETHANOL	GBM	Neurology	0
+CLONAZEPAM	GBM	Neurology	0
+OXAZEPAM	GBM	Psychiatry/Psychology	0
+LORAZEPAM	GBM	Psychiatry/Psychology	0
+ALPRAZOLAM	GBM	Psychiatry/Psychology	0
+CHLORDIAZEPOXIDE	GBM	Psychiatry/Psychology	0
+ISOFLURANE	GBM	Pain management	0
+PROPYLTHIOURACIL	HNSC	Endocrinology	0
+L-ASCORBIC ACID	HNSC	Nutraceutical	0
+PIOGLITAZONE HYDROCHLORIDE	HNSC	Endocrinology	0
+INDOMETHACIN	HNSC	Pain management | Musculoskeletal	0
+METHYLPREDNISOLONE	HNSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ABACAVIR	HNSC	Immunology/Infectious disease	0
+ENALAPRIL	HNSC	Cardiology/Vascular disease	0
+NINTEDANIB	HNSC	Pulmonary/Respiratory disease	0
+NINTEDANIB ESYLATE	HNSC	Pulmonary/Respiratory disease	0
+BROMOCRIPTINE	HNSC	Endocrinology | Neurology	0
+DIMETHYL FUMARATE	HNSC	Neurology	0
+CAPSAICIN	HNSC	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	HNSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	HNSC	Dermatology/Plastic surgery	0
+ROSIGLITAZONE MALEATE	HNSC	Endocrinology	0
+PEGAPTANIB	HNSC	Ophthalmology	0
+SULINDAC	HNSC	Pain management | Musculoskeletal	0
+DIMETHYL SULFOXIDE	HNSC	Pain management | Nephrology/Urology	0
+NITROGLYCERIN	HNSC	Cardiology/Vascular disease | Gastroenterology	0
+ZINC CHLORIDE	HNSC	Nutraceutical	0
+METFORMIN	HNSC	Endocrinology	0
+URSODEOXYCHOLIC ACID	HNSC	Gastroenterology	0
+ELIGLUSTAT TARTRATE	HNSC	Storage disease	0
+METHIMAZOLE	HNSC	Endocrinology	0
+MILTEFOSINE	HNSC	Immunology/Infectious disease	0
+INSULIN HUMAN	HNSC	Endocrinology	0
+DECITABINE	HNSC	Hematology	0
+OXCARBAZEPINE	HNSC	Neurology	0
+LOVASTATIN ACID	HNSC	Cardiology/Vascular disease	0
+L-GLUTAMINE	HNSC	Nutraceutical	0
+GANCICLOVIR	HNSC	Immunology/Infectious disease	0
+VITAMIN E	HNSC	Nutraceutical	0
+PROGESTERONE	HNSC	Endocrinology | Obstetrics/Gynecology	0
+ISOPROTERENOL	HNSC	Pulmonary/Respiratory disease	0
+TRIFLURIDINE	HNSC	Immunology/Infectious disease | Ophthalmology	0
+CARBAMAZEPINE	HNSC	Neurology | Psychiatry/Psychology	0
+BUMETANIDE	HNSC	Cardiology/Vascular disease	0
+TRIFLUOPERAZINE	HNSC	Psychiatry/Psychology	0
+ROSIGLITAZONE	HNSC	Endocrinology	0
+INSULIN GLARGINE	HNSC	Endocrinology	0
+HALOPERIDOL	HNSC	Psychiatry/Psychology	0
+LEVODOPA	HNSC	Neurology	0
+DEHYDROEPIANDROSTERONE	HNSC	Obstetrics/Gynecology	0
+TARENFLURBIL	HNSC	Pain management | Musculoskeletal	0
+MIGLUSTAT	HNSC	Storage disease	0
+PRAMLINTIDE	HNSC	Endocrinology	0
+GLYCEROL	HNSC	Gastroenterology	0
+DEXAMETHASONE	HNSC	Ophthalmology	0
+RAPAMYCIN	HNSC	Immunology/Infectious disease | Nephrology/Urology	0
+TELMISARTAN	HNSC	Cardiology/Vascular disease	0
+SIMVASTATIN	HNSC	Hematology	0
+LITHIUM	HNSC	Psychiatry/Psychology	0
+PHENYTOIN	HNSC	Neurology	0
+IODIPAMIDE	KIRC	Diagnostic agent	0
+PROPYLTHIOURACIL	KIRC	Endocrinology	0
+PIOGLITAZONE HYDROCHLORIDE	KIRC	Endocrinology	0
+INSULIN-GLARGINE	KIRC	Endocrinology	0
+METHYLPREDNISOLONE	KIRC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	KIRC	Cardiology/Vascular disease	0
+IBUPROFEN	KIRC	Pain management	0
+DIMETHYL FUMARATE	KIRC	Neurology	0
+ROSIGLITAZONE MALEATE	KIRC	Endocrinology	0
+SULINDAC	KIRC	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	KIRC	Nutraceutical	0
+INSULIN LISPRO	KIRC	Endocrinology	0
+METFORMIN	KIRC	Endocrinology	0
+URSODEOXYCHOLIC ACID	KIRC	Gastroenterology	0
+NICOTINE	KIRC	Psychiatry/Psychology	0
+LITHIUM CARBONATE	KIRC	Psychiatry/Psychology	0
+METHIMAZOLE	KIRC	Endocrinology	0
+MILTEFOSINE	KIRC	Immunology/Infectious disease	0
+INSULIN DETEMIR	KIRC	Endocrinology	0
+INSULIN HUMAN	KIRC	Endocrinology	0
+DECITABINE	KIRC	Hematology	0
+PROGESTERONE	KIRC	Endocrinology | Obstetrics/Gynecology	0
+INSULIN DEGLUDEC	KIRC	Endocrinology	0
+TRIFLURIDINE	KIRC	Immunology/Infectious disease | Ophthalmology	0
+UREA	KIRC	Dermatology/Plastic surgery	0
+TRIFLUOPERAZINE	KIRC	Psychiatry/Psychology	0
+INSULIN GLARGINE	KIRC	Endocrinology	0
+HALOPERIDOL	KIRC	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	KIRC	Obstetrics/Gynecology	0
+TARENFLURBIL	KIRC	Pain management | Musculoskeletal	0
+PRAMLINTIDE	KIRC	Endocrinology	0
+VALPROIC ACID	KIRC	Neurology | Psychiatry/Psychology	0
+RAPAMYCIN	KIRC	Immunology/Infectious disease | Nephrology/Urology	0
+TELMISARTAN	KIRC	Cardiology/Vascular disease	0
+PROPYLTHIOURACIL	LGG	Endocrinology	0
+METHYLPREDNISOLONE	LGG	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	LGG	Cardiology/Vascular disease	0
+DIMETHYL FUMARATE	LGG	Neurology	0
+PREDNISOLONE	LGG	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	LGG	Dermatology/Plastic surgery	0
+SULINDAC	LGG	Pain management | Musculoskeletal	0
+NITROGLYCERIN	LGG	Cardiology/Vascular disease | Gastroenterology	0
+ZINC CHLORIDE	LGG	Nutraceutical	0
+METFORMIN	LGG	Endocrinology	0
+URSODEOXYCHOLIC ACID	LGG	Gastroenterology	0
+METHIMAZOLE	LGG	Endocrinology	0
+ATOVAQUONE	LGG	Immunology/Infectious disease	0
+MILTEFOSINE	LGG	Immunology/Infectious disease	0
+DECITABINE	LGG	Hematology	0
+LOVASTATIN ACID	LGG	Cardiology/Vascular disease	0
+GANCICLOVIR	LGG	Immunology/Infectious disease	0
+PROGESTERONE	LGG	Endocrinology | Obstetrics/Gynecology	0
+ISOPROTERENOL	LGG	Pulmonary/Respiratory disease	0
+TRIFLURIDINE	LGG	Immunology/Infectious disease | Ophthalmology	0
+TRIFLUOPERAZINE	LGG	Psychiatry/Psychology	0
+HALOPERIDOL	LGG	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	LGG	Obstetrics/Gynecology	0
+TARENFLURBIL	LGG	Pain management | Musculoskeletal	0
+PRAMLINTIDE	LGG	Endocrinology	0
+DEXAMETHASONE	LGG	Ophthalmology	0
+RAPAMYCIN	LGG	Immunology/Infectious disease | Nephrology/Urology	0
+LIDOCAINE	LGG	Pain management	0
+ETHANOL	LGG	Neurology	0
+IODIPAMIDE	LIHC	Diagnostic agent	0
+PROPYLTHIOURACIL	LIHC	Endocrinology	0
+L-ASCORBIC ACID	LIHC	Nutraceutical	0
+NAPROXEN	LIHC	Pain management	0
+HEPARIN	LIHC	Hematology	0
+FENOFIBRATE	LIHC	Hematology	0
+NEVIRAPINE	LIHC	Immunology/Infectious disease	0
+ATORVASTATIN	LIHC	Cardiology/Vascular disease	0
+INDOMETHACIN	LIHC	Pain management | Musculoskeletal	0
+PRAVASTATIN	LIHC	Cardiology/Vascular disease	0
+METHYLPREDNISOLONE	LIHC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+CHOLESTYRAMINE	LIHC	Hematology	0
+ENALAPRIL	LIHC	Cardiology/Vascular disease	0
+CELECOXIB	LIHC	Pain management	0
+MIPOMERSEN	LIHC	Hematology	0
+BROMOCRIPTINE	LIHC	Endocrinology | Neurology	0
+DIMETHYL FUMARATE	LIHC	Neurology	0
+CAPSAICIN	LIHC	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	LIHC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	LIHC	Dermatology/Plastic surgery	0
+PEGAPTANIB	LIHC	Ophthalmology	0
+SULINDAC	LIHC	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	LIHC	Nutraceutical	0
+METFORMIN	LIHC	Endocrinology	0
+URSODEOXYCHOLIC ACID	LIHC	Gastroenterology	0
+NICOTINE	LIHC	Psychiatry/Psychology	0
+METHIMAZOLE	LIHC	Endocrinology	0
+ATOVAQUONE	LIHC	Immunology/Infectious disease	0
+MILTEFOSINE	LIHC	Immunology/Infectious disease	0
+INSULIN HUMAN	LIHC	Endocrinology	0
+DECITABINE	LIHC	Hematology	0
+ASPIRIN	LIHC	Pain management | Cardiology/Vascular disease	0
+ACETAMINOPHEN	LIHC	Pain management	0
+LOVASTATIN ACID	LIHC	Cardiology/Vascular disease	0
+L-GLUTAMINE	LIHC	Nutraceutical	0
+VITAMIN E	LIHC	Nutraceutical	0
+IRBESARTAN	LIHC	Cardiology/Vascular disease	0
+TRIFLURIDINE	LIHC	Immunology/Infectious disease | Ophthalmology	0
+UREA	LIHC	Dermatology/Plastic surgery	0
+TRIFLUOPERAZINE	LIHC	Psychiatry/Psychology	0
+ROSIGLITAZONE	LIHC	Endocrinology	0
+HALOPERIDOL	LIHC	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	LIHC	Obstetrics/Gynecology	0
+TARENFLURBIL	LIHC	Pain management | Musculoskeletal	0
+LOVASTATIN	LIHC	Cardiology/Vascular disease	0
+PRAMLINTIDE	LIHC	Endocrinology	0
+VALPROIC ACID	LIHC	Neurology | Psychiatry/Psychology	0
+DEXAMETHASONE	LIHC	Ophthalmology	0
+RAPAMYCIN	LIHC	Immunology/Infectious disease | Nephrology/Urology	0
+SIMVASTATIN	LIHC	Hematology	0
+LITHIUM	LIHC	Psychiatry/Psychology	0
+ETHANOL	LIHC	Neurology	0
+TERIFLUNOMIDE	LIHC	Neurology	0
+SODIUM 4-PHENYLBUTYRATE	LIHC	Hematology	0
+PROPYLTHIOURACIL	LUAD	Endocrinology	0
+PIOGLITAZONE HYDROCHLORIDE	LUAD	Endocrinology	0
+METHYLPREDNISOLONE	LUAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	LUAD	Cardiology/Vascular disease	0
+CELECOXIB	LUAD	Pain management	0
+DIMETHYL FUMARATE	LUAD	Neurology	0
+CAPSAICIN	LUAD	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	LUAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ROSIGLITAZONE MALEATE	LUAD	Endocrinology	0
+SULINDAC	LUAD	Pain management | Musculoskeletal	0
+NITROGLYCERIN	LUAD	Cardiology/Vascular disease | Gastroenterology	0
+ZINC CHLORIDE	LUAD	Nutraceutical	0
+METFORMIN	LUAD	Endocrinology	0
+URSODEOXYCHOLIC ACID	LUAD	Gastroenterology	0
+METHIMAZOLE	LUAD	Endocrinology	0
+ATOVAQUONE	LUAD	Immunology/Infectious disease	0
+MILTEFOSINE	LUAD	Immunology/Infectious disease	0
+GATIFLOXACIN	LUAD	Ophthalmology | Immunology/Infectious disease	0
+INSULIN HUMAN	LUAD	Endocrinology	0
+DECITABINE	LUAD	Hematology	0
+LOVASTATIN ACID	LUAD	Cardiology/Vascular disease	0
+EFLORNITHINE	LUAD	Dermatology/Plastic surgery	0
+MIGLITOL	LUAD	Endocrinology	0
+TRIFLURIDINE	LUAD	Immunology/Infectious disease | Ophthalmology	0
+UREA	LUAD	Dermatology/Plastic surgery	0
+BUMETANIDE	LUAD	Cardiology/Vascular disease	0
+TRIFLUOPERAZINE	LUAD	Psychiatry/Psychology	0
+INSULIN GLARGINE	LUAD	Endocrinology	0
+HALOPERIDOL	LUAD	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	LUAD	Obstetrics/Gynecology	0
+TARENFLURBIL	LUAD	Pain management | Musculoskeletal	0
+PRAMLINTIDE	LUAD	Endocrinology	0
+VALPROIC ACID	LUAD	Neurology | Psychiatry/Psychology	0
+DEXAMETHASONE	LUAD	Ophthalmology	0
+RAPAMYCIN	LUAD	Immunology/Infectious disease | Nephrology/Urology	0
+LIDOCAINE	LUAD	Pain management	0
+TELMISARTAN	LUAD	Cardiology/Vascular disease	0
+ETHANOL	LUAD	Neurology	0
+TERIFLUNOMIDE	LUAD	Neurology	0
+PROPYLTHIOURACIL	LUSC	Endocrinology	0
+L-ASCORBIC ACID	LUSC	Nutraceutical	0
+PIOGLITAZONE HYDROCHLORIDE	LUSC	Endocrinology	0
+INDOMETHACIN	LUSC	Pain management | Musculoskeletal	0
+METHYLPREDNISOLONE	LUSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	LUSC	Cardiology/Vascular disease	0
+NINTEDANIB	LUSC	Pulmonary/Respiratory disease	0
+NINTEDANIB ESYLATE	LUSC	Pulmonary/Respiratory disease	0
+BROMOCRIPTINE	LUSC	Endocrinology | Neurology	0
+DIMETHYL FUMARATE	LUSC	Neurology	0
+CAPSAICIN	LUSC	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	LUSC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	LUSC	Dermatology/Plastic surgery	0
+ROSIGLITAZONE MALEATE	LUSC	Endocrinology	0
+PEGAPTANIB	LUSC	Ophthalmology	0
+SULINDAC	LUSC	Pain management | Musculoskeletal	0
+DIMETHYL SULFOXIDE	LUSC	Pain management | Nephrology/Urology	0
+NITROGLYCERIN	LUSC	Cardiology/Vascular disease | Gastroenterology	0
+ZINC CHLORIDE	LUSC	Nutraceutical	0
+METFORMIN	LUSC	Endocrinology	0
+URSODEOXYCHOLIC ACID	LUSC	Gastroenterology	0
+METHIMAZOLE	LUSC	Endocrinology	0
+ATOVAQUONE	LUSC	Immunology/Infectious disease	0
+MILTEFOSINE	LUSC	Immunology/Infectious disease	0
+INSULIN HUMAN	LUSC	Endocrinology	0
+DECITABINE	LUSC	Hematology	0
+LOVASTATIN ACID	LUSC	Cardiology/Vascular disease	0
+GANCICLOVIR	LUSC	Immunology/Infectious disease	0
+VITAMIN E	LUSC	Nutraceutical	0
+PROGESTERONE	LUSC	Endocrinology | Obstetrics/Gynecology	0
+TRIFLURIDINE	LUSC	Immunology/Infectious disease | Ophthalmology	0
+CARBAMAZEPINE	LUSC	Neurology | Psychiatry/Psychology	0
+TRIFLUOPERAZINE	LUSC	Psychiatry/Psychology	0
+ROSIGLITAZONE	LUSC	Endocrinology	0
+INSULIN GLARGINE	LUSC	Endocrinology	0
+HALOPERIDOL	LUSC	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	LUSC	Obstetrics/Gynecology	0
+TARENFLURBIL	LUSC	Pain management | Musculoskeletal	0
+PRAMLINTIDE	LUSC	Endocrinology	0
+PENTOSAN POLYSULFATE	LUSC	Nephrology/Urology	0
+DEXAMETHASONE	LUSC	Ophthalmology	0
+RAPAMYCIN	LUSC	Immunology/Infectious disease | Nephrology/Urology	0
+TELMISARTAN	LUSC	Cardiology/Vascular disease	0
+SIMVASTATIN	LUSC	Hematology	0
+LITHIUM	LUSC	Psychiatry/Psychology	0
+ETHANOL	LUSC	Neurology	0
+TERIFLUNOMIDE	LUSC	Neurology	0
+PROPYLTHIOURACIL	PRAD	Endocrinology	0
+INSULIN-GLARGINE	PRAD	Endocrinology	0
+NELFINAVIR	PRAD	Immunology/Infectious disease	0
+METHYLPREDNISOLONE	PRAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	PRAD	Cardiology/Vascular disease	0
+CELECOXIB	PRAD	Pain management	0
+IBUPROFEN	PRAD	Pain management	0
+LIOTHYRONINE	PRAD	Endocrinology	0
+SULINDAC	PRAD	Pain management | Musculoskeletal	0
+DIMETHYL SULFOXIDE	PRAD	Pain management | Nephrology/Urology	0
+NITROGLYCERIN	PRAD	Cardiology/Vascular disease | Gastroenterology	0
+ZINC CHLORIDE	PRAD	Nutraceutical	0
+INSULIN LISPRO	PRAD	Endocrinology	0
+METFORMIN	PRAD	Endocrinology	0
+URSODEOXYCHOLIC ACID	PRAD	Gastroenterology	0
+METHIMAZOLE	PRAD	Endocrinology	0
+MILTEFOSINE	PRAD	Immunology/Infectious disease	0
+INSULIN DETEMIR	PRAD	Endocrinology	0
+DECITABINE	PRAD	Hematology	0
+PIRFENIDONE	PRAD	Pulmonary/Respiratory disease	0
+LOVASTATIN ACID	PRAD	Cardiology/Vascular disease	0
+EFLORNITHINE	PRAD	Dermatology/Plastic surgery	0
+GANCICLOVIR	PRAD	Immunology/Infectious disease	0
+VITAMIN E	PRAD	Nutraceutical	0
+PROGESTERONE	PRAD	Endocrinology | Obstetrics/Gynecology	0
+INSULIN DEGLUDEC	PRAD	Endocrinology	0
+TRIFLURIDINE	PRAD	Immunology/Infectious disease | Ophthalmology	0
+UREA	PRAD	Dermatology/Plastic surgery	0
+TRIFLUOPERAZINE	PRAD	Psychiatry/Psychology	0
+INSULIN GLARGINE	PRAD	Endocrinology	0
+HALOPERIDOL	PRAD	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	PRAD	Obstetrics/Gynecology	0
+TARENFLURBIL	PRAD	Pain management | Musculoskeletal	0
+PRAMLINTIDE	PRAD	Endocrinology	0
+RAPAMYCIN	PRAD	Immunology/Infectious disease | Nephrology/Urology	0
+RISPERIDONE	PRAD	Psychiatry/Psychology	0
+PROPYLTHIOURACIL	SKCM	Endocrinology	0
+L-ASCORBIC ACID	SKCM	Nutraceutical	0
+METHYLPREDNISOLONE	SKCM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	SKCM	Cardiology/Vascular disease	0
+CELECOXIB	SKCM	Pain management	0
+DIMETHYL FUMARATE	SKCM	Neurology	0
+CAPSAICIN	SKCM	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	SKCM	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+DIMETHYL SULFOXIDE	SKCM	Pain management | Nephrology/Urology	0
+NITROGLYCERIN	SKCM	Cardiology/Vascular disease | Gastroenterology	0
+ZINC CHLORIDE	SKCM	Nutraceutical	0
+METFORMIN	SKCM	Endocrinology	0
+URSODEOXYCHOLIC ACID	SKCM	Gastroenterology	0
+NICOTINE	SKCM	Psychiatry/Psychology	0
+METHIMAZOLE	SKCM	Endocrinology	0
+DEOXYCHOLIC ACID	SKCM	Dermatology/Plastic surgery	0
+ATOVAQUONE	SKCM	Immunology/Infectious disease	0
+INSULIN HUMAN	SKCM	Endocrinology	0
+DECITABINE	SKCM	Hematology	0
+LOVASTATIN ACID	SKCM	Cardiology/Vascular disease	0
+L-GLUTAMINE	SKCM	Nutraceutical	0
+VITAMIN E	SKCM	Nutraceutical	0
+PROGESTERONE	SKCM	Endocrinology | Obstetrics/Gynecology	0
+TRIFLURIDINE	SKCM	Immunology/Infectious disease | Ophthalmology	0
+UREA	SKCM	Dermatology/Plastic surgery	0
+BUMETANIDE	SKCM	Cardiology/Vascular disease	0
+TRIFLUOPERAZINE	SKCM	Psychiatry/Psychology	0
+INSULIN GLARGINE	SKCM	Endocrinology	0
+HALOPERIDOL	SKCM	Psychiatry/Psychology	0
+TARENFLURBIL	SKCM	Pain management | Musculoskeletal	0
+APREMILAST	SKCM	Immunology/Infectious disease | Musculoskeletal	0
+PRAMLINTIDE	SKCM	Endocrinology	0
+DEXAMETHASONE	SKCM	Ophthalmology	0
+RAPAMYCIN	SKCM	Immunology/Infectious disease | Nephrology/Urology	0
+SEMAXANIB	SKCM	Hematology	0
+TERIFLUNOMIDE	SKCM	Neurology	0
+PROPYLTHIOURACIL	STAD	Endocrinology	0
+PIOGLITAZONE HYDROCHLORIDE	STAD	Endocrinology	0
+QUINAPRIL	STAD	Cardiology/Vascular disease	0
+METHYLPREDNISOLONE	STAD	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	STAD	Cardiology/Vascular disease	0
+CELECOXIB	STAD	Pain management	0
+TRIHEXYPHENIDYL	STAD	Neurology	0
+CYCLOPENTOLATE	STAD	Ophthalmology	0
+IBUPROFEN	STAD	Pain management	0
+DIMETHYL FUMARATE	STAD	Neurology	0
+CAPSAICIN	STAD	Immunology/Infectious disease | Neurology | Pain management	0
+LIOTHYRONINE	STAD	Endocrinology	0
+FLAVOXATE	STAD	Nephrology/Urology	0
+HYDROCORTISONE	STAD	Dermatology/Plastic surgery	0
+ROSIGLITAZONE MALEATE	STAD	Endocrinology	0
+TRIHEXYPHENIDYL HYDROCHLORIDE	STAD	Neurology	0
+SULINDAC	STAD	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	STAD	Nutraceutical	0
+METFORMIN	STAD	Endocrinology	0
+URSODEOXYCHOLIC ACID	STAD	Gastroenterology	0
+METHIMAZOLE	STAD	Endocrinology	0
+MILTEFOSINE	STAD	Immunology/Infectious disease	0
+ALUMINUM	STAD	Gastroenterology	0
+POTASSIUM	STAD	Hematology | Nephrology/Urology	0
+DECITABINE	STAD	Hematology	0
+LOVASTATIN ACID	STAD	Cardiology/Vascular disease	0
+EFLORNITHINE	STAD	Dermatology/Plastic surgery	0
+L-GLUTAMINE	STAD	Nutraceutical	0
+GANCICLOVIR	STAD	Immunology/Infectious disease	0
+VITAMIN E	STAD	Nutraceutical	0
+PROGESTERONE	STAD	Endocrinology | Obstetrics/Gynecology	0
+TRIFLURIDINE	STAD	Immunology/Infectious disease | Ophthalmology	0
+UREA	STAD	Dermatology/Plastic surgery	0
+CICLOPIROX	STAD	Immunology/Infectious disease	0
+LUMEFANTRINE	STAD	Immunology/Infectious disease	0
+TRIFLUOPERAZINE	STAD	Psychiatry/Psychology	0
+INSULIN GLARGINE	STAD	Endocrinology	0
+HALOPERIDOL	STAD	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	STAD	Obstetrics/Gynecology	0
+TARENFLURBIL	STAD	Pain management | Musculoskeletal	0
+PRAMLINTIDE	STAD	Endocrinology	0
+MAGNESIUM	STAD	Nutraceutical	0
+RAPAMYCIN	STAD	Immunology/Infectious disease | Nephrology/Urology	0
+TELMISARTAN	STAD	Cardiology/Vascular disease	0
+PROPYLTHIOURACIL	UCEC	Endocrinology	0
+L-ASCORBIC ACID	UCEC	Nutraceutical	0
+QUINAPRIL	UCEC	Cardiology/Vascular disease	0
+INDOMETHACIN	UCEC	Pain management | Musculoskeletal	0
+NELFINAVIR	UCEC	Immunology/Infectious disease	0
+METHYLPREDNISOLONE	UCEC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	UCEC	Cardiology/Vascular disease	0
+NINTEDANIB	UCEC	Pulmonary/Respiratory disease	0
+NINTEDANIB ESYLATE	UCEC	Pulmonary/Respiratory disease	0
+BROMOCRIPTINE	UCEC	Endocrinology | Neurology	0
+DIMETHYL FUMARATE	UCEC	Neurology	0
+CAPSAICIN	UCEC	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	UCEC	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+HYDROCORTISONE	UCEC	Dermatology/Plastic surgery	0
+SULINDAC	UCEC	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	UCEC	Nutraceutical	0
+METFORMIN	UCEC	Endocrinology	0
+URSODEOXYCHOLIC ACID	UCEC	Gastroenterology	0
+METHIMAZOLE	UCEC	Endocrinology	0
+MILTEFOSINE	UCEC	Immunology/Infectious disease	0
+INSULIN HUMAN	UCEC	Endocrinology	0
+DECITABINE	UCEC	Hematology	0
+ACETAMINOPHEN	UCEC	Pain management	0
+LOVASTATIN ACID	UCEC	Cardiology/Vascular disease	0
+GANCICLOVIR	UCEC	Immunology/Infectious disease	0
+VITAMIN E	UCEC	Nutraceutical	0
+ISOPROTERENOL	UCEC	Pulmonary/Respiratory disease	0
+TRIFLURIDINE	UCEC	Immunology/Infectious disease | Ophthalmology	0
+UREA	UCEC	Dermatology/Plastic surgery	0
+TRIFLUOPERAZINE	UCEC	Psychiatry/Psychology	0
+ROSIGLITAZONE	UCEC	Endocrinology	0
+HALOPERIDOL	UCEC	Psychiatry/Psychology	0
+NIFEDIPINE	UCEC	Cardiology/Vascular disease	0
+DEHYDROEPIANDROSTERONE	UCEC	Obstetrics/Gynecology	0
+TARENFLURBIL	UCEC	Pain management | Musculoskeletal	0
+PRAMLINTIDE	UCEC	Endocrinology	0
+VALPROIC ACID	UCEC	Neurology | Psychiatry/Psychology	0
+PENTOSAN POLYSULFATE	UCEC	Nephrology/Urology	0
+DEXAMETHASONE	UCEC	Ophthalmology	0
+RAPAMYCIN	UCEC	Immunology/Infectious disease | Nephrology/Urology	0
+SIMVASTATIN	UCEC	Hematology	0
+LITHIUM	UCEC	Psychiatry/Psychology	0
+ETHANOL	UCEC	Neurology	0
+RISPERIDONE	UCEC	Psychiatry/Psychology	0
+PROPYLTHIOURACIL	UCS	Endocrinology	0
+PIOGLITAZONE HYDROCHLORIDE	UCS	Endocrinology	0
+QUINAPRIL	UCS	Cardiology/Vascular disease	0
+METHYLPREDNISOLONE	UCS	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ENALAPRIL	UCS	Cardiology/Vascular disease	0
+HYDRALAZINE	UCS	Cardiology/Vascular disease	0
+DIMETHYL FUMARATE	UCS	Neurology	0
+CAPSAICIN	UCS	Immunology/Infectious disease | Neurology | Pain management	0
+PREDNISOLONE	UCS	Ophthalmology | Immunology/Infectious disease | Gastroenterology | Nephrology/Urology | Hematology | Dermatology/Plastic surgery | Endocrinology | Neurology | Pulmonary/Respiratory disease | Musculoskeletal	0
+ROSIGLITAZONE MALEATE	UCS	Endocrinology	0
+SULINDAC	UCS	Pain management | Musculoskeletal	0
+ZINC CHLORIDE	UCS	Nutraceutical	0
+METFORMIN	UCS	Endocrinology	0
+URSODEOXYCHOLIC ACID	UCS	Gastroenterology	0
+METHIMAZOLE	UCS	Endocrinology	0
+MILTEFOSINE	UCS	Immunology/Infectious disease	0
+INSULIN HUMAN	UCS	Endocrinology	0
+DECITABINE	UCS	Hematology	0
+PIRFENIDONE	UCS	Pulmonary/Respiratory disease	0
+LOVASTATIN ACID	UCS	Cardiology/Vascular disease	0
+DOXYCYCLINE	UCS	Immunology/Infectious disease	0
+L-GLUTAMINE	UCS	Nutraceutical	0
+PROGESTERONE	UCS	Endocrinology | Obstetrics/Gynecology	0
+ISOPROTERENOL	UCS	Pulmonary/Respiratory disease	0
+TRIFLURIDINE	UCS	Immunology/Infectious disease | Ophthalmology	0
+TRIFLUOPERAZINE	UCS	Psychiatry/Psychology	0
+INSULIN GLARGINE	UCS	Endocrinology	0
+HALOPERIDOL	UCS	Psychiatry/Psychology	0
+DEHYDROEPIANDROSTERONE	UCS	Obstetrics/Gynecology	0
+TARENFLURBIL	UCS	Pain management | Musculoskeletal	0
+PRAMLINTIDE	UCS	Endocrinology	0
+DEXAMETHASONE	UCS	Ophthalmology	0
+RAPAMYCIN	UCS	Immunology/Infectious disease | Nephrology/Urology	0
