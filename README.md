@@ -1,6 +1,6 @@
 # CESnet-repurposing
 ## Description
-Source codes for generating results of "	A co-essentiality network of cancer driver genes provides therapeutic opportunities in precision oncology".
+Source codes for generating results of "	A Co-essentiality Network of Cancer Driver Genes Better Prioritizes Anticancer Drugs".
 
 
 ## Requirements
