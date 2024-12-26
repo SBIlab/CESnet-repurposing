@@ -34,4 +34,4 @@ Gnerally, a couple of minutes is needed for installing each package.
 ### Codes for results reproduction
 Most of the codes was written in python2, but the codes related to gene set enrichment analysis(gsea) was written in python3.
 Code for reproducing drug target prioritization and drug rerpurposing is provided under the './code/3_drug_candidate_analysis' folder.
-Download network file, network.zip from figshare repository linked to submission page, and unzip this file under the './data/network' folder 
+Download network file, network.zip from Mendeley Data repository(https://data.mendeley.com/preview/v5ydnp4p9j?a=43e34493-78cb-420b-9008-73acd8dbb9fb), and unzip this file under the './data/network' folder 
